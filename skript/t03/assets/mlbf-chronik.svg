@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="ch-titel">
+  <title id="ch-titel">Durchsetzungschronik des BFSG: Gesetz gilt ab Juni 2025, Marktüberwachungsstelle errichtet September 2025, Strategie Januar 2026, rund 700 Meldungen und keine dokumentierten Bußgelder bis Juni 2026; parallel dazu seit Sommer 2025 Abmahnwellen</title>
+  <style>
+    text { font-family: Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .monat { font-size: 30px; font-weight: 700; fill: #031121; }
+    .ereignis { font-size: 27px; fill: #031121; }
+    .dauer { font-size: 24px; fill: #5a6472; }
+    .band { font-size: 26px; font-weight: 700; letter-spacing: 3px; fill: #5a6472; }
+    .abmahn { font-size: 27px; font-weight: 700; fill: #FFFFFF; }
+    .abmahnsub { font-size: 24px; fill: #FFFFFF; }
+  </style>
+
+  <rect x="0" y="0" width="1600" height="900" fill="#FFFFFF"/>
+
+  <!-- Zeitachse -->
+  <text class="band" x="100" y="120">STAAT</text>
+  <line x1="100" y1="300" x2="1500" y2="300" stroke="#031121" stroke-width="6"/>
+
+  <!-- Station 1: Juni 2025 -->
+  <circle cx="180" cy="300" r="22" fill="#031121"/>
+  <text class="monat" x="180" y="210" text-anchor="middle">28.06.2025</text>
+  <text class="ereignis" x="180" y="250" text-anchor="middle">Das Gesetz gilt</text>
+
+  <!-- Station 2: September 2025 -->
+  <circle cx="560" cy="300" r="22" fill="#7fb6f6" stroke="#031121" stroke-width="4"/>
+  <text class="monat" x="560" y="210" text-anchor="middle">26.09.2025</text>
+  <text class="ereignis" x="560" y="250" text-anchor="middle">MLBF errichtet</text>
+  <text class="dauer" x="370" y="360" text-anchor="middle">+ 3 Monate</text>
+
+  <!-- Station 3: Januar 2026 -->
+  <circle cx="940" cy="300" r="22" fill="#b9e0ff" stroke="#031121" stroke-width="4"/>
+  <text class="monat" x="940" y="210" text-anchor="middle">Januar 2026</text>
+  <text class="ereignis" x="940" y="250" text-anchor="middle">Strategie beschlossen</text>
+  <text class="dauer" x="750" y="360" text-anchor="middle">+ 6 Monate</text>
+
+  <!-- Station 4: Juni 2026 -->
+  <circle cx="1400" cy="300" r="22" fill="#e2eefc" stroke="#031121" stroke-width="4"/>
+  <text class="monat" x="1400" y="210" text-anchor="middle">Juni 2026</text>
+  <text class="ereignis" x="1400" y="250" text-anchor="middle">rund 700 Meldungen</text>
+  <text class="dauer" x="1400" y="360" text-anchor="middle">Bußgelder: keine dokumentiert</text>
+
+  <!-- Abmahnband -->
+  <text class="band" x="100" y="520">PRIVAT</text>
+  <rect x="260" y="560" width="520" height="150" rx="12" fill="#5a6472"/>
+  <text class="abmahn" x="520" y="620" text-anchor="middle">Abmahnwelle 1 · Sommer 2025</text>
+  <text class="abmahnsub" x="520" y="664" text-anchor="middle">pauschal, wenig belastbar</text>
+
+  <rect x="800" y="560" width="700" height="150" rx="12" fill="#031121"/>
+  <text class="abmahn" x="1150" y="620" text-anchor="middle">Abmahnwelle 2 · seit Ende 2025</text>
+  <text class="abmahnsub" x="1150" y="664" text-anchor="middle">professionell, automatisierte Prüfberichte</text>
+
+  <!-- Markierung der Lücke -->
+  <rect x="180" y="400" width="380" height="40" rx="6" fill="#FCD430"/>
+  <text class="dauer" x="370" y="428" text-anchor="middle" style="fill:#031121;font-weight:700">die Lücke: Gesetz ohne Behörde</text>
+
+  <text class="dauer" x="100" y="830">Quellen: MLBF und Sozialministerium Sachsen-Anhalt (Pressemitteilungen, belastbar) · Abmahnangaben: Branchenmitteilungen (axes4, AccessGO/DGfB) – Anbieterquellen</text>
+</svg>

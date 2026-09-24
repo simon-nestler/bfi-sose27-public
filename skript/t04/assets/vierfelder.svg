@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="t d">
+  <title id="t">Der Vierfelder-Befund</title>
+  <desc id="d">Vier gleich große Felder in einem Quadrat: oben links richtig, oben rechts plausibel, aber falsch, unten links fehlt, unten rechts stille Annahme. Jedes Feld trägt eine Prüffrage. Am Rand steht: jede Eintragung mit Fundstelle.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Arial, sans-serif; }
+    .h { font-size: 30px; font-weight: 700; }
+    .q { font-size: 20px; }
+    .f { font-size: 18px; fill: #5a6472; }
+  </style>
+  <rect width="960" height="520" fill="#ffffff"/>
+
+  <!-- Feld 1: richtig -->
+  <rect x="60" y="40" width="410" height="200" rx="10" fill="#e2eefc" stroke="#c7cdd4"/>
+  <rect x="60" y="40" width="8" height="200" fill="#7fb6f6"/>
+  <text x="90" y="90" class="h" fill="#031121">richtig</text>
+  <text x="90" y="130" class="q" fill="#031121">Deckt sich mit der Primärquelle.</text>
+  <text x="90" y="160" class="q" fill="#031121">Fundstelle: Kriterium, Fassung, Datum.</text>
+
+  <!-- Feld 2: plausibel-falsch -->
+  <rect x="490" y="40" width="410" height="200" rx="10" fill="#031121"/>
+  <rect x="490" y="40" width="8" height="200" fill="#fcd430"/>
+  <text x="520" y="90" class="h" fill="#ffffff">plausibel, aber falsch</text>
+  <text x="520" y="130" class="q" fill="#ffffff">Klingt richtig, hält der Quelle nicht stand.</text>
+  <text x="520" y="160" class="q" fill="#ffffff">Das gefährliche Feld.</text>
+
+  <!-- Feld 3: fehlt -->
+  <rect x="60" y="260" width="410" height="200" rx="10" fill="#ffffff" stroke="#c7cdd4" stroke-dasharray="10 6"/>
+  <rect x="60" y="260" width="8" height="200" fill="#c7cdd4"/>
+  <text x="90" y="310" class="h" fill="#031121">fehlt</text>
+  <text x="90" y="350" class="q" fill="#031121">Was eine vollständige Antwort</text>
+  <text x="90" y="380" class="q" fill="#031121">enthalten müsste: Fassung, Geltung, Grenze.</text>
+
+  <!-- Feld 4: stille Annahme -->
+  <rect x="490" y="260" width="410" height="200" rx="10" fill="#b9e0ff" stroke="#7fb6f6"/>
+  <rect x="490" y="260" width="8" height="200" fill="#031121"/>
+  <text x="520" y="310" class="h" fill="#031121">stille Annahme</text>
+  <text x="520" y="350" class="q" fill="#031121">Was unausgesprochen vorausgesetzt wird:</text>
+  <text x="520" y="380" class="q" fill="#031121">Rechtsraum, Zielgruppe, Zeitpunkt.</text>
+
+  <text x="480" y="500" class="f" text-anchor="middle">Jede Eintragung trägt eine Fundstelle – ohne Fundstelle ist es kein Befund, sondern eine Meinung.</text>
+</svg>

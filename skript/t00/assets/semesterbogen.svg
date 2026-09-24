@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" role="img" aria-labelledby="t d">
+  <title id="t">Der Semesterbogen: 12 Themenwochen, Referate in Woche 13 und Woche 14</title>
+  <desc id="d">14 Wochenkacheln in zwei Reihen. Woche 1 Der Mismatch, Woche 2 Werkzeuge nicht Mitleid mit Teambildung, Woche 3 Ein Gesetz ohne Behörde mit Wahl des Prüfobjekts, Woche 4 Was die KI über Normen weiß, Woche 5 Was die Maschine findet mit Meilenstein 1 Erstbefund, Woche 6 Das Tribunal, Woche 7 Methode statt Bauchgefühl, Woche 8 Der Prüf-Sprint mit Meilenstein 2, Woche 9 Die Rangfolge hat einen Preis, Woche 10 Die Eine-Million-Dollar-Frage, Woche 11 Konform aber unbenutzbar mit Meilenstein 3, Woche 12 Wer prüft die Prüfer mit dem Gutachten-Entwurf, Woche 13 und Woche 14 Referate an zwei Terminen, je Team 20 Minuten Präsentation und 10 Minuten Verteidigung.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Helvetica, Arial, sans-serif; fill: #031121; }
+    .h { font-size: 26px; font-weight: 700; }
+    .m { font-size: 18px; fill: #5a6472; }
+    .w { font-size: 15px; fill: #5a6472; font-weight: 700; }
+    .tt { font-size: 17px; font-weight: 700; fill: #031121; }
+    .ts { font-size: 15px; fill: #5a6472; }
+    .bt { font-size: 14px; font-weight: 700; fill: #ffffff; text-anchor: middle; }
+    .tile { fill: #ffffff; stroke: #1a2f6e; stroke-width: 2; }
+    .referate { fill: #fcd430; stroke: #fcd430; }
+    .badge { fill: #1a2f6e; }
+  </style>
+  <rect width="1200" height="640" fill="#ffffff"/>
+
+  <text class="h" x="40" y="48">14 Wochen: 12 Themen · Referate an zwei Terminen</text>
+  <text class="m" x="40" y="80">jede Themenwoche ein Doppelblock aus Theorie und Praxis</text>
+
+  <!-- Reihe 1: W1–W7 -->
+  <g>
+    <rect class="tile" x="40" y="110" width="150" height="150" rx="10"/>
+    <text class="w" x="56" y="140">W1</text>
+    <text class="tt" x="56" y="170">Der</text>
+    <text class="tt" x="56" y="192">Mismatch</text>
+
+    <rect class="tile" x="202" y="110" width="150" height="150" rx="10"/>
+    <text class="w" x="218" y="140">W2</text>
+    <text class="tt" x="218" y="170">Werkzeuge,</text>
+    <text class="tt" x="218" y="192">nicht Mitleid</text>
+    <rect class="badge" x="210" y="270" width="134" height="30" rx="15"/>
+    <text class="bt" x="277" y="290">Teambildung</text>
+
+    <rect class="tile" x="364" y="110" width="150" height="150" rx="10"/>
+    <text class="w" x="380" y="140">W3</text>
+    <text class="tt" x="380" y="170">Ein Gesetz</text>
+    <text class="tt" x="380" y="192">ohne Behörde</text>
+    <rect class="badge" x="372" y="270" width="134" height="30" rx="15"/>
+    <text class="bt" x="439" y="290">Prüfobjekt</text>
+
+    <rect class="tile" x="526" y="110" width="150" height="150" rx="10"/>
+    <text class="w" x="542" y="140">W4</text>
+    <text class="tt" x="542" y="170">Was die KI über</text>
+    <text class="tt" x="542" y="192">Normen weiß</text>
+
+    <rect class="tile" x="688" y="110" width="150" height="150" rx="10"/>
+    <text class="w" x="704" y="140">W5</text>
+    <text class="tt" x="704" y="170">Was die</text>
+    <text class="tt" x="704" y="192">Maschine findet</text>
+    <rect class="badge" x="696" y="270" width="134" height="30" rx="15"/>
+    <text class="bt" x="763" y="290">M1 · Erstbefund</text>
+
+    <rect class="tile" x="850" y="110" width="150" height="150" rx="10"/>
+    <text class="w" x="866" y="140">W6</text>
+    <text class="tt" x="866" y="170">Das Tribunal</text>
+
+    <rect class="tile" x="1012" y="110" width="150" height="150" rx="10"/>
+    <text class="w" x="1028" y="140">W7</text>
+    <text class="tt" x="1028" y="170">Methode statt</text>
+    <text class="tt" x="1028" y="192">Bauchgefühl</text>
+  </g>
+
+  <!-- Reihe 2: W8–W14 -->
+  <g>
+    <rect class="tile" x="40" y="340" width="150" height="150" rx="10"/>
+    <text class="w" x="56" y="370">W8</text>
+    <text class="tt" x="56" y="400">Der</text>
+    <text class="tt" x="56" y="422">Prüf-Sprint</text>
+    <rect class="badge" x="48" y="500" width="134" height="30" rx="15"/>
+    <text class="bt" x="115" y="520">M2 · Sprint</text>
+
+    <rect class="tile" x="202" y="340" width="150" height="150" rx="10"/>
+    <text class="w" x="218" y="370">W9</text>
+    <text class="tt" x="218" y="400">Die Rangfolge</text>
+    <text class="tt" x="218" y="422">hat einen Preis</text>
+
+    <rect class="tile" x="364" y="340" width="150" height="150" rx="10"/>
+    <text class="w" x="380" y="370">W10</text>
+    <text class="tt" x="380" y="400">Die Eine-</text>
+    <text class="tt" x="380" y="422">Million-</text>
+    <text class="tt" x="380" y="444">Dollar-Frage</text>
+
+    <rect class="tile" x="526" y="340" width="150" height="150" rx="10"/>
+    <text class="w" x="542" y="370">W11</text>
+    <text class="tt" x="542" y="400">Konform, aber</text>
+    <text class="tt" x="542" y="422">unbenutzbar</text>
+    <rect class="badge" x="534" y="500" width="134" height="30" rx="15"/>
+    <text class="bt" x="601" y="520">M3 · Rangliste</text>
+
+    <rect class="tile" x="688" y="340" width="150" height="150" rx="10"/>
+    <text class="w" x="704" y="370">W12</text>
+    <text class="tt" x="704" y="400">Wer prüft</text>
+    <text class="tt" x="704" y="422">die Prüfer?</text>
+    <rect class="badge" x="696" y="500" width="134" height="30" rx="15"/>
+    <text class="bt" x="763" y="520">Entwurf</text>
+
+    <rect class="referate" x="850" y="340" width="150" height="150" rx="10"/>
+    <text class="w" x="866" y="370" style="fill:#031121">W13</text>
+    <text class="tt" x="866" y="400">Referate</text>
+    <text class="ts" x="866" y="422" style="fill:#031121">Termin 1</text>
+    <rect class="badge" x="858" y="500" width="134" height="30" rx="15"/>
+    <text class="bt" x="925" y="520">20 + 10 Min.</text>
+
+    <rect class="referate" x="1012" y="340" width="150" height="150" rx="10"/>
+    <text class="w" x="1028" y="370" style="fill:#031121">W14</text>
+    <text class="tt" x="1028" y="400">Referate</text>
+    <text class="ts" x="1028" y="422" style="fill:#031121">Termin 2</text>
+    <rect class="badge" x="1020" y="500" width="134" height="30" rx="15"/>
+    <text class="bt" x="1087" y="520">20 + 10 Min.</text>
+  </g>
+
+  <text class="m" x="40" y="600">M1–M3: Meilensteine des Team-Gutachtens – Teamarbeit im Selbststudium, zusätzlich zu den wöchentlichen Zwischenaufgaben</text>
+</svg>

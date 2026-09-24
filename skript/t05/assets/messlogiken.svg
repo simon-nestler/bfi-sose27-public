@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="ml-title">
+  <title id="ml-title">Zwei Messlogiken nebeneinander: Deque zählt Fehler-Instanzen aus echten Audits, Ergebnis 57 Prozent nach Volumen. GDS zählt Barrierearten auf einer präparierten Testseite, Ergebnis 41 Prozent beim besten Werkzeug, 29 Prozent ungefunden. Beide Aussagen sind wahr.</title>
+  <style>
+    text { font-family: Inter, 'Neue Haas Unica', sans-serif; fill: #031121; }
+    .head { font-size: 34px; font-weight: 700; }
+    .big { font-size: 64px; font-weight: 700; }
+    .row { font-size: 26px; font-weight: 400; }
+    .key { font-size: 26px; font-weight: 600; }
+    .box { fill: #E5EFFB; }
+    .box2 { fill: #F5F3EE; }
+    .accent { fill: #FCD430; }
+    .dot { fill: #031121; }
+    .dot-light { fill: #7fb6f6; }
+  </style>
+
+  <!-- Linke Spalte: Instanzen -->
+  <rect class="box" x="0" y="0" width="570" height="470" rx="6"/>
+  <rect class="accent" x="0" y="0" width="10" height="470"/>
+  <text class="head" x="36" y="58">Deque 2021 zählt Instanzen</text>
+  <text class="big" x="36" y="140">57 %</text>
+  <text class="row" x="36" y="196">nach Volumen</text>
+  <!-- viele Punkte gleicher Art -->
+  <g>
+    <circle class="dot" cx="60" cy="260" r="11"/><circle class="dot" cx="96" cy="260" r="11"/><circle class="dot" cx="132" cy="260" r="11"/><circle class="dot" cx="168" cy="260" r="11"/><circle class="dot" cx="204" cy="260" r="11"/><circle class="dot" cx="240" cy="260" r="11"/><circle class="dot" cx="276" cy="260" r="11"/><circle class="dot" cx="312" cy="260" r="11"/>
+    <circle class="dot" cx="60" cy="300" r="11"/><circle class="dot" cx="96" cy="300" r="11"/><circle class="dot" cx="132" cy="300" r="11"/><circle class="dot" cx="168" cy="300" r="11"/><circle class="dot" cx="204" cy="300" r="11"/><circle class="dot" cx="240" cy="300" r="11"/>
+    <circle class="dot-light" cx="60" cy="340" r="11"/><circle class="dot-light" cx="96" cy="340" r="11"/><circle class="dot-light" cx="132" cy="340" r="11"/>
+  </g>
+  <text class="key" x="36" y="400">Was wurde gezählt?</text>
+  <text class="row" x="36" y="436">Wie oft Fehler vorkommen · 13.000 Seiten aus echten Audits</text>
+
+  <!-- Rechte Spalte: Arten -->
+  <rect class="box2" x="630" y="0" width="570" height="470" rx="6"/>
+  <rect class="accent" x="630" y="0" width="10" height="470"/>
+  <text class="head" x="666" y="58">GDS 2017 zählt Arten</text>
+  <text class="big" x="666" y="140">41 %</text>
+  <text class="row" x="666" y="196">bestes Werkzeug · 29 % fand keines</text>
+  <!-- je Art ein Symbol -->
+  <g>
+    <rect class="dot" x="690" y="248" width="24" height="24"/>
+    <circle class="dot" cx="750" cy="260" r="12"/>
+    <polygon class="dot" points="786,272 798,248 810,272"/>
+    <rect class="dot-light" x="834" y="248" width="24" height="24" transform="rotate(45 846 260)"/>
+    <circle class="dot-light" cx="900" cy="260" r="12" fill="none" stroke="#031121" stroke-width="3"/>
+    <rect x="930" y="248" width="24" height="24" fill="none" stroke="#031121" stroke-width="3" stroke-dasharray="6 4"/>
+  </g>
+  <text class="key" x="666" y="400">Was wurde gezählt?</text>
+  <text class="row" x="666" y="436">Welche Barrierearten gefunden werden · 143 bekannte auf einer Testseite</text>
+
+  <text class="key" x="0" y="530">Beides wahr, nichts widersprüchlich: Dieselbe Prozentzahl beantwortet zwei verschiedene Fragen.</text>
+</svg>

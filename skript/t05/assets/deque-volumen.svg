@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" role="img" aria-labelledby="dv-title">
+  <title id="dv-title">Automatisiert findbarer Anteil je Fehlertyp: Kontrastfehler 83 Prozent, fehlende Textalternativen 68 Prozent, viele weitere Fehlertypen mit jeweils kleinem Volumen (schematisch)</title>
+  <style>
+    text { font-family: Inter, 'Neue Haas Unica', sans-serif; fill: var(--ink, #031121); }
+    .lbl { font-size: 30px; font-weight: 600; }
+    .val { font-size: 30px; font-weight: 700; }
+    .sub { font-size: 25px; font-weight: 400; }
+    .bar-big { fill: var(--ink, #031121); }
+    .bar-small { fill: var(--ink, #031121); fill-opacity: 0.38; }
+    .accent { fill: #FCD430; }
+  </style>
+
+  <!-- Kontrastfehler -->
+  <rect class="accent" x="0" y="16" width="10" height="34"/>
+  <text class="lbl" x="26" y="42">Kontrastfehler</text>
+  <rect class="bar-big" x="0" y="60" width="830" height="52"/>
+  <text class="val" x="850" y="97">83 %</text>
+
+  <!-- Fehlende Textalternativen -->
+  <rect class="accent" x="0" y="146" width="10" height="34"/>
+  <text class="lbl" x="26" y="172">Fehlende Textalternativen</text>
+  <rect class="bar-big" x="0" y="190" width="680" height="52"/>
+  <text class="val" x="700" y="227">68 %</text>
+
+  <!-- Übrige Fehlertypen, schematisch -->
+  <text class="lbl" x="26" y="308">Übrige Fehlertypen</text>
+  <text class="sub" x="330" y="308">(schematisch – geringes Volumen je Typ)</text>
+  <rect class="bar-small" x="0" y="326" width="120" height="30"/>
+  <rect class="bar-small" x="0" y="366" width="85" height="30"/>
+  <rect class="bar-small" x="0" y="406" width="60" height="30"/>
+  <rect class="bar-small" x="0" y="446" width="40" height="30"/>
+
+  <text class="sub" x="0" y="524">Volumengewichtung: Wenige, gut automatisierbare Massentypen dominieren die 57,38 % (Deque 2021).</text>
+</svg>

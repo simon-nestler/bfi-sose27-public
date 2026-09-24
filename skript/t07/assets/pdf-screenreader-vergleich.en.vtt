@@ -1,0 +1,287 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.410 --> 00:00:09.700
+Most PDFs on the web are inaccessible - making
+it so people using assistive technologies
+
+00:00:09.700 --> 00:00:12.620
+can’t navigate or read them.
+
+00:00:12.620 --> 00:00:16.029
+In this video, we'll start with what PDFs
+need to be accessible.
+
+00:00:16.029 --> 00:00:22.010
+Then, we’ll manually test an inaccessible
+PDF to see how it affects assistive technology
+
+00:00:22.010 --> 00:00:23.080
+users.
+
+00:00:23.080 --> 00:00:28.400
+We'll end with why we prefer HTML webpages
+to PDFs.
+
+00:00:28.400 --> 00:00:35.370
+Like HTML webpages, PDFs need alternative
+text, correct heading use, the right color
+
+00:00:35.370 --> 00:00:38.030
+contrast, and other accessibility design techniques.
+
+00:00:38.030 --> 00:00:43.329
+But, PDFs also need to be tagged and have
+their reading order checked.
+
+00:00:43.329 --> 00:00:48.640
+Tagging tells screen readers what content
+is headings, paragraph text, images, and links.
+
+00:00:48.640 --> 00:00:55.410
+And, the reading order makes sure the content
+is read in, you guessed it, the right order.
+
+00:00:55.410 --> 00:01:00.360
+Most PDFs don't have the right tagging or
+reading order, which means they are unreadable
+
+00:01:00.360 --> 00:01:04.199
+to someone using assistive technology like
+a screen reader.
+
+00:01:04.199 --> 00:01:09.460
+Let's take a look at how inaccessible PDFs
+would affect someone using a screen reader.
+
+00:01:09.460 --> 00:01:14.970
+I'm going to use Mac's VoiceOver screen reader,
+and the PDF is opened in Adobe Acrobat.
+
+00:01:14.970 --> 00:01:19.880
+Where the PDF is viewed and the screen reader
+settings can affect the experience.
+
+00:01:19.880 --> 00:01:24.400
+If you want to try testing your own PDFs,
+check out the links for Mac's VoiceOver screen
+
+00:01:24.400 --> 00:01:28.580
+reader and Window's NVDA screen reader below
+- both are free.
+
+00:01:28.580 --> 00:01:31.280
+Okay, let's get to this example.
+
+00:01:31.280 --> 00:01:35.349
+This PDF was saved using Print and then Save
+as PDF.
+
+00:01:35.349 --> 00:01:40.720
+When saving a PDF this way, it can make it
+so the PDF is one giant image.
+
+00:01:40.720 --> 00:01:43.180
+The screen reader won’t be able to read
+it at all.
+
+00:01:43.180 --> 00:01:45.260
+Let’s hear what this sounds like.
+
+00:01:45.260 --> 00:01:46.280
+VoiceOver: Window.
+
+00:01:46.280 --> 00:01:48.410
+Alert, document unavailable pane.
+
+00:01:48.410 --> 00:01:52.520
+VoiceOver: Alert, document unavailable pane.
+
+00:01:52.520 --> 00:01:54.220
+Content is empty.
+
+00:01:54.220 --> 00:02:00.070
+Since that PDF was saved using Print and then
+Save as PDF, it saved the text as an image,
+
+00:02:00.070 --> 00:02:02.880
+so it is unreadable to assistive technology.
+
+00:02:02.880 --> 00:02:07.830
+Now, let’s hear a PDF that has readable
+text but hasn’t been tagged, and the reading
+
+00:02:07.830 --> 00:02:09.250
+order wasn’t checked.
+
+00:02:09.250 --> 00:02:10.959
+VoiceOver: California beaches.
+
+00:02:10.959 --> 00:02:14.280
+VoiceOver: When you think of California one
+of the first things that comes to mind is
+
+00:02:14.280 --> 00:02:15.280
+its beaches.
+
+00:02:15.280 --> 00:02:18.170
+Ride the wave and learn more about what beaches
+are the most popular and how their temperatures
+
+00:02:18.170 --> 00:02:19.170
+vary.
+
+00:02:19.170 --> 00:02:21.500
+VoiceOver: Most popular beaches temperatures.
+
+00:02:21.500 --> 00:02:26.250
+You'll notice the screen reader doesn't announce
+the type of element like headings or graphics,
+
+00:02:26.250 --> 00:02:27.860
+which takes away the structure.
+
+00:02:27.860 --> 00:02:30.170
+I'm going to play the screen reader again.
+
+00:02:30.170 --> 00:02:32.920
+Take a look at what happens when these same
+PDF gets to
+
+00:02:32.920 --> 00:02:33.950
+the columns.
+
+00:02:33.950 --> 00:02:39.140
+VoiceOver: According to U.S. News the top
+three in the table below, the June 2021 California
+
+00:02:39.140 --> 00:02:41.840
+beaches are temperatures compared for each
+of the.
+
+00:02:41.840 --> 00:02:43.170
+VoiceOver: One.
+
+00:02:43.170 --> 00:02:44.170
+Two.
+
+00:02:44.170 --> 00:02:48.170
+Because the PDF's reading order is wrong,
+the screen reader reads the columns from left
+
+00:02:48.170 --> 00:02:50.820
+to right instead of going column by column.
+
+00:02:50.820 --> 00:02:54.760
+Now, the PDF is tagged and has the reading
+order corrected.
+
+00:02:54.760 --> 00:03:00.210
+Tagging the PDF and correcting the reading
+order can be a tedious process the more complex
+
+00:03:00.210 --> 00:03:01.850
+your documents get.
+
+00:03:01.850 --> 00:03:03.270
+Okay, let's hear the difference.
+
+00:03:03.270 --> 00:03:05.020
+VoiceOver: Heading level 1, California beaches.
+
+00:03:05.020 --> 00:03:07.940
+VoiceOver: When you think of California one
+of the first things that comes to mind is
+
+00:03:07.940 --> 00:03:08.940
+its beaches.
+
+00:03:08.940 --> 00:03:11.970
+Ride the wave and learn more about what beaches
+are the most popular and how their temperatures
+
+00:03:11.970 --> 00:03:12.970
+vary.
+
+00:03:12.970 --> 00:03:14.210
+VoiceOver: Heading level 2, Most popular beaches
+
+00:03:14.210 --> 00:03:18.270
+VoiceOver: According to U.S. News, the top
+three beaches are: 1.
+
+00:03:18.270 --> 00:03:19.270
+Laguna beach.
+
+00:03:19.270 --> 00:03:20.270
+2.
+
+00:03:20.270 --> 00:03:21.270
+La Jolla.
+
+00:03:21.270 --> 00:03:22.270
+3.
+
+00:03:22.270 --> 00:03:23.270
+Malibu beach.
+
+00:03:23.270 --> 00:03:24.270
+VoiceOver: Malibu beach, graphic.
+
+00:03:24.270 --> 00:03:25.270
+Graphic.
+
+00:03:25.270 --> 00:03:26.270
+VoiceOver: Heading level 2, Temperatures.
+
+00:03:26.270 --> 00:03:28.930
+Now, the screen reader announces key structural
+elements like headings, graphics with their
+
+00:03:28.930 --> 00:03:32.970
+alternative text, and it's reading the columns
+correctly.
+
+00:03:32.970 --> 00:03:37.420
+As you could tell, even pretty simple PDFs
+quickly become inaccessible without tagging
+
+00:03:37.420 --> 00:03:38.959
+and the right reading order.
+
+00:03:38.959 --> 00:03:44.130
+So, we suggest HTML webpages instead of PDFs
+whenever possible.
+
+00:03:44.130 --> 00:03:48.780
+Here's why: First, Like we've said, PDFs take
+extra work to make accessible.
+
+00:03:48.780 --> 00:03:55.520
+Second, It can be expensive to remediate complex
+PDFs, and Third, PDFs can be hard for any
+
+00:03:55.520 --> 00:03:57.849
+user to read on mobile.
+
+00:03:57.849 --> 00:04:02.209
+If you’ve opened a PDF on a mobile device,
+you are probably familiar with the pinching
+
+00:04:02.209 --> 00:04:07.720
+to zoom and finger-scrolling needed to read
+navigate PDFs on mobile.
+
+00:04:07.720 --> 00:04:14.010
+Remember, if a PDF is needed, it needs to
+be properly tagged and have the right reading
+
+00:04:14.010 --> 00:04:18.160
+order on top of all the other accessibility
+design techniques.
+
+00:04:18.160 --> 00:04:21.659
+Otherwise, we suggest sticking to HTML web
+pages.
+

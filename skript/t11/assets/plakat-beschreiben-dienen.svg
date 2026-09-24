@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
+  <title id="t">Das Semesterplakat bekommt einen neuen Eintrag: beschreiben ist nicht dienen</title>
+  <desc id="d">Ein Plakat mit den Einträgen der Vorwochen als schmale graue Zeilen. Unten, gelb markiert, der neue Eintrag der Woche 11: beschreiben ungleich dienen. Daneben zwei Karten: links Beschreiben, was zu sehen ist; rechts Dienen, was die Nutzerin an dieser Stelle entscheiden will.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Helvetica, Arial, sans-serif; fill: #031121; }
+    .h { font-size: 26px; font-weight: 700; }
+    .big { font-size: 44px; font-weight: 700; }
+    .l { font-size: 21px; }
+    .s { font-size: 18px; fill: #5a6472; }
+    .paper { fill: #ffffff; stroke: #c7cdd4; stroke-width: 2; }
+    .line { fill: #e5effb; }
+    .card { fill: #e5effb; stroke: #c7cdd4; stroke-width: 2; }
+    .carddark { fill: #031121; }
+    .tw { fill: #ffffff; }
+  </style>
+  <rect width="1200" height="600" fill="#ffffff"/>
+
+  <!-- Plakat -->
+  <rect class="paper" x="50" y="40" width="460" height="520"/>
+  <text class="h" x="80" y="90">Plakat · seit Woche 1</text>
+  <rect class="line" x="80" y="120" width="360" height="18"/>
+  <rect class="line" x="80" y="152" width="300" height="18"/>
+  <rect class="line" x="80" y="184" width="390" height="18"/>
+  <rect class="line" x="80" y="216" width="280" height="18"/>
+  <rect class="line" x="80" y="248" width="340" height="18"/>
+  <rect class="line" x="80" y="280" width="310" height="18"/>
+  <rect class="line" x="80" y="312" width="370" height="18"/>
+  <rect class="line" x="80" y="344" width="260" height="18"/>
+  <rect class="line" x="80" y="376" width="350" height="18"/>
+  <rect class="line" x="80" y="408" width="320" height="18"/>
+  <text class="s" x="80" y="465">Woche 11 · neu:</text>
+  <rect x="72" y="478" width="400" height="56" fill="#FCD430"/>
+  <text class="big" x="88" y="520">beschreiben ≠ dienen</text>
+
+  <!-- Karte links: Beschreiben -->
+  <rect class="card" x="580" y="120" width="270" height="360"/>
+  <text class="h" x="605" y="165">Beschreiben</text>
+  <text class="l" x="605" y="215">Was ist zu sehen?</text>
+  <text class="s" x="605" y="255">Farbe, Form, Details,</text>
+  <text class="s" x="605" y="283">Personen, Hintergrund</text>
+  <text class="s" x="605" y="340">Prüfbar nach Kriterium:</text>
+  <text class="s" x="605" y="368">vorhanden, korrekt,</text>
+  <text class="s" x="605" y="396">vollständig</text>
+  <text class="s" x="605" y="450">Signatur der KI-Texte</text>
+
+  <!-- Karte rechts: Dienen -->
+  <rect class="carddark" x="880" y="120" width="270" height="360"/>
+  <text class="h tw" x="905" y="165">Dienen</text>
+  <text class="l tw" x="905" y="215">Wofür steht das Bild</text>
+  <text class="l tw" x="905" y="245">an dieser Stelle?</text>
+  <text class="s tw" x="905" y="300">Kaufentscheidung</text>
+  <text class="s tw" x="905" y="328">Datenaussage</text>
+  <text class="s tw" x="905" y="356">Stimmung – oder leer</text>
+  <text class="s tw" x="905" y="410">Prüfbar nur am Zweck:</text>
+  <text class="s tw" x="905" y="438">Welche Entscheidung</text>
+  <text class="s tw" x="905" y="466">trägt der Text?</text>
+
+  <text class="s" x="580" y="540">Der Zweck-Test fragt nicht „ist ein Alt-Text da und korrekt?“, sondern „trägt er den Zweck?“</text>
+</svg>

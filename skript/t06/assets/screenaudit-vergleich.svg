@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="sa-title">
+  <title id="sa-title">ScreenAudit (CHI 2025): Abdeckung von Screenreader-Fehlern in Mobile-Apps – LLM-gestützte Prüfung 69 Prozent, verbreiteter klassischer Checker 31 Prozent</title>
+  <style>
+    text { font-family: Inter, 'Neue Haas Unica', sans-serif; fill: #031121; }
+    .lbl { font-size: 30px; font-weight: 600; }
+    .val { font-size: 34px; font-weight: 700; }
+    .sub { font-size: 24px; font-weight: 400; }
+    .llm { fill: #031121; }
+    .cls { fill: #8FB8DE; }
+    .rail { fill: #E6EDF3; }
+  </style>
+
+  <text class="lbl" x="0" y="40">LLM-gestützte Prüfung (ScreenAudit)</text>
+  <rect class="rail" x="0" y="60" width="1000" height="64"/>
+  <rect class="llm" x="0" y="60" width="690" height="64"/>
+  <text class="val" x="1020" y="106">69 %</text>
+
+  <text class="lbl" x="0" y="210">Klassischer Checker</text>
+  <rect class="rail" x="0" y="230" width="1000" height="64"/>
+  <rect class="cls" x="0" y="230" width="310" height="64"/>
+  <text class="val" x="1020" y="276">31 %</text>
+
+  <text class="sub" x="0" y="360">Abdeckung von Screenreader-Fehlern in Mobile-Apps – ein anderes Setting als die Web-Studie.</text>
+  <text class="sub" x="0" y="404">Quelle: ScreenAudit, CHI 2025 (arXiv 2504.02110).</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="t d">
+  <title id="t">WebAIM Million 2019 bis 2026: Anteil der Startseiten mit erkennbaren WCAG-Fehlern und Fehler pro Startseite</title>
+  <desc id="d">Zwei Balkenreihen. Links: Anteil der Startseiten mit Fehlern, von 97,8 Prozent 2019 bis 95,9 Prozent 2026, stets über 94 Prozent. Rechts: Fehler pro Startseite, 2025 51,0 und 2026 56,1, der Anstieg 2026 ist hervorgehoben.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Helvetica, Arial, sans-serif; fill: #031121; }
+    .h { font-size: 26px; font-weight: 700; }
+    .v { font-size: 22px; font-weight: 700; text-anchor: middle; }
+    .y { font-size: 20px; fill: #5a6472; text-anchor: middle; }
+    .q { font-size: 18px; fill: #5a6472; }
+    .bar { fill: #1a2f6e; }
+    .bar.akzent { fill: #fcd430; }
+    .grid { stroke: #c7cdd4; stroke-width: 1; }
+  </style>
+  <rect width="1200" height="560" fill="#ffffff"/>
+
+  <!-- Panel links: Anteil mit Fehlern -->
+  <text class="h" x="40" y="48">Startseiten mit WCAG-Fehlern</text><text class="q" x="40" y="78">in Prozent · Skala 0 bis 100</text>
+  <line class="grid" x1="40" y1="440" x2="570" y2="440"/>
+  <line class="grid" x1="40" y1="120" x2="570" y2="120" stroke-dasharray="4 6"/>
+  
+  <g>
+    <rect class="bar" x="60"  y="127.0" width="46" height="313.0"/><text class="v" x="83"  y="118">97,8</text><text class="y" x="83"  y="472">2019</text>
+    <rect class="bar" x="124" y="126.1" width="46" height="313.9"/><text class="v" x="147" y="118">98,1</text><text class="y" x="147" y="472">2020</text>
+    <rect class="bar" x="188" y="128.3" width="46" height="311.7"/><text class="v" x="211" y="118">97,4</text><text class="y" x="211" y="472">2021</text>
+    <rect class="bar" x="252" y="130.2" width="46" height="309.8"/><text class="v" x="275" y="118">96,8</text><text class="y" x="275" y="472">2022</text>
+    <rect class="bar" x="316" y="131.8" width="46" height="308.2"/><text class="v" x="339" y="118">96,3</text><text class="y" x="339" y="472">2023</text>
+    <rect class="bar" x="380" y="133.1" width="46" height="306.9"/><text class="v" x="403" y="118">95,9</text><text class="y" x="403" y="472">2024</text>
+    <rect class="bar" x="444" y="136.6" width="46" height="303.4"/><text class="v" x="467" y="118">94,8</text><text class="y" x="467" y="472">2025</text>
+    <rect class="bar akzent" x="508" y="133.1" width="46" height="306.9"/><text class="v" x="531" y="118">95,9</text><text class="y" x="531" y="472">2026</text>
+  </g>
+
+  <!-- Panel rechts: Fehler pro Startseite -->
+  <text class="h" x="640" y="48">Fehler pro Startseite</text><text class="q" x="640" y="78">Mittelwert · Skala 0 bis 65</text>
+  <line class="grid" x1="640" y1="440" x2="1170" y2="440"/>
+  <line class="grid" x1="640" y1="140" x2="1170" y2="140" stroke-dasharray="4 6"/>
+  
+  <g>
+    <rect class="bar" x="660"  y="142.0" width="46" height="298.0"/><text class="v" x="683"  y="133">59,6</text><text class="y" x="683"  y="472">2019</text>
+    <rect class="bar" x="724"  y="135.5" width="46" height="304.5"/><text class="v" x="747"  y="126">60,9</text><text class="y" x="747"  y="472">2020</text>
+    <rect class="bar" x="788"  y="183.0" width="46" height="257.0"/><text class="v" x="811"  y="174">51,4</text><text class="y" x="811"  y="472">2021</text>
+    <rect class="bar" x="852"  y="186.0" width="46" height="254.0"/><text class="v" x="875"  y="177">50,8</text><text class="y" x="875"  y="472">2022</text>
+    <rect class="bar" x="916"  y="190.0" width="46" height="250.0"/><text class="v" x="939"  y="181">50,0</text><text class="y" x="939"  y="472">2023</text>
+    <rect class="bar" x="980"  y="156.0" width="46" height="284.0"/><text class="v" x="1003" y="147">56,8</text><text class="y" x="1003" y="472">2024</text>
+    <rect class="bar" x="1044" y="185.0" width="46" height="255.0"/><text class="v" x="1067" y="176">51,0</text><text class="y" x="1067" y="472">2025</text>
+    <rect class="bar akzent" x="1108" y="159.5" width="46" height="280.5"/><text class="v" x="1131" y="150">56,1</text><text class="y" x="1131" y="472">2026</text>
+  </g>
+  <text class="q" x="1108" y="515" text-anchor="start" style="fill:#031121;font-weight:700">+10 %</text>
+
+  <text class="q" x="40" y="540">Quelle: WebAIM, The WebAIM Million 2019–2026 · eine Million meistbesuchte Startseiten · automatisiert geprüft (WAVE)</text>
+</svg>

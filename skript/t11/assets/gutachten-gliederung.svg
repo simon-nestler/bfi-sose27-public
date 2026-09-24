@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
+  <title id="t">Die Gutachten-Gliederung: neun Bausteine, jeder aus einer Woche des Semesters</title>
+  <desc id="d">Neun Kacheln in drei Reihen, nummeriert nach Kapitel, jede mit der Herkunftswoche: Steckbrief aus Woche 3, Verifikationsprotokoll aus Woche 4, Dreiklang-Matrix aus Woche 5, Beweisvermerke aus Woche 6, Stichprobe aus Woche 7, Sprint-Protokoll aus Woche 8, Team-Position mit Preis-Sätzen aus Woche 9, Sektions-Belegform aus Woche 10, Zweck-Test und Pflicht-Limitation aus Woche 11. Die letzte Kachel ist dunkel hervorgehoben, weil sie heute entsteht.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Helvetica, Arial, sans-serif; fill: #031121; }
+    .h { font-size: 24px; font-weight: 700; }
+    .k { font-size: 22px; font-weight: 700; }
+    .l { font-size: 20px; }
+    .s { font-size: 18px; fill: #5a6472; }
+    .tile { fill: #e5effb; stroke: #c7cdd4; stroke-width: 2; }
+    .today { fill: #031121; }
+    .tw { fill: #ffffff; }
+    .badge { fill: #1a2f6e; }
+    .badgetoday { fill: #FCD430; }
+    .bt { font-size: 18px; font-weight: 700; fill: #ffffff; text-anchor: middle; }
+    .btd { font-size: 18px; font-weight: 700; fill: #031121; text-anchor: middle; }
+  </style>
+  <rect width="1200" height="600" fill="#ffffff"/>
+  <text class="h" x="50" y="55">Gutachten-Gliederung · nichts daran ist neu</text>
+
+  <!-- Reihe 1 -->
+  <rect class="tile" x="50" y="85" width="350" height="130"/>
+  <rect class="badge" x="50" y="85" width="64" height="34"/><text class="bt" x="82" y="109">T03</text>
+  <text class="k" x="70" y="160">1 · Steckbrief</text>
+  <text class="s" x="70" y="192">Prüfgegenstand, Nutzergruppe, Umfang</text>
+
+  <rect class="tile" x="425" y="85" width="350" height="130"/>
+  <rect class="badge" x="425" y="85" width="64" height="34"/><text class="bt" x="457" y="109">T04</text>
+  <text class="k" x="445" y="160">2 · Verifikationsprotokoll</text>
+  <text class="s" x="445" y="192">Werkzeugbefunde, manuell verifiziert</text>
+
+  <rect class="tile" x="800" y="85" width="350" height="130"/>
+  <rect class="badge" x="800" y="85" width="64" height="34"/><text class="bt" x="832" y="109">T05</text>
+  <text class="k" x="820" y="160">3 · Dreiklang-Matrix</text>
+  <text class="s" x="820" y="192">Kriterium, Befund, Nutzerfolge</text>
+
+  <!-- Reihe 2 -->
+  <rect class="tile" x="50" y="240" width="350" height="130"/>
+  <rect class="badge" x="50" y="240" width="64" height="34"/><text class="bt" x="82" y="264">T06</text>
+  <text class="k" x="70" y="315">4 · Beweisvermerke</text>
+  <text class="s" x="70" y="347">Kriterium, Fundstelle, Nachweis</text>
+
+  <rect class="tile" x="425" y="240" width="350" height="130"/>
+  <rect class="badge" x="425" y="240" width="64" height="34"/><text class="bt" x="457" y="264">T07</text>
+  <text class="k" x="445" y="315">5 · Stichprobe</text>
+  <text class="s" x="445" y="347">Auswahl und Begründung</text>
+
+  <rect class="tile" x="800" y="240" width="350" height="130"/>
+  <rect class="badge" x="800" y="240" width="64" height="34"/><text class="bt" x="832" y="264">T08</text>
+  <text class="k" x="820" y="315">6 · Sprint-Protokoll</text>
+  <text class="s" x="820" y="347">Was wann geprüft wurde</text>
+
+  <!-- Reihe 3 -->
+  <rect class="tile" x="50" y="395" width="350" height="130"/>
+  <rect class="badge" x="50" y="395" width="64" height="34"/><text class="bt" x="82" y="419">T09</text>
+  <text class="k" x="70" y="470">7 · Team-Position</text>
+  <text class="s" x="70" y="502">Priorisierung mit Preis-Sätzen</text>
+
+  <rect class="tile" x="425" y="395" width="350" height="130"/>
+  <rect class="badge" x="425" y="395" width="64" height="34"/><text class="bt" x="457" y="419">T10</text>
+  <text class="k" x="445" y="470">8 · Sektions-Belegform</text>
+  <text class="s" x="445" y="502">Befunde je Sektion belegt</text>
+
+  <rect class="today" x="800" y="395" width="350" height="130"/>
+  <rect class="badgetoday" x="800" y="395" width="64" height="34"/><text class="btd" x="832" y="419">T11</text>
+  <text class="k tw" x="820" y="470">9 · Zweck-Test, Limitationen</text>
+  <text class="s tw" x="820" y="502">Pflichtsatz: geprüft ohne Nutzerbeteiligung</text>
+
+  <text class="s" x="50" y="570">Montieren ist keine Restarbeit – aber auch kein neuer Berg.</text>
+</svg>

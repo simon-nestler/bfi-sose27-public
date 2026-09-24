@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Herleitung des Preis-Satzes in vier Schritten: Rangfolge, Wartende, Betroffene, der Satz. Beispiel: Platz 5 bedeutet, die Zoom-Nutzerin wartet auf ein lesbares Menü, bis die ersten vier behoben sind.">
+  <!-- vier Stationen -->
+  <g stroke="#031121" stroke-width="3" fill="#ffffff">
+    <rect x="30" y="70" width="250" height="150" rx="10"/>
+    <rect x="330" y="70" width="250" height="150" rx="10"/>
+    <rect x="630" y="70" width="250" height="150" rx="10"/>
+  </g>
+  <rect x="930" y="70" width="250" height="150" rx="10" fill="#031121"/>
+  <rect x="954" y="196" width="202" height="8" rx="4" fill="#FCD430"/>
+
+  <g font-family="Inter, sans-serif" fill="#031121" text-anchor="middle">
+    <text x="155" y="115" font-size="20" fill="#5a6472">1 · Rangfolge</text>
+    <text x="155" y="155" font-size="28" font-weight="700">Platz 5</text>
+    <text x="155" y="190" font-size="20">Menü unlesbar bei Zoom</text>
+
+    <text x="455" y="115" font-size="20" fill="#5a6472">2 · Wartende</text>
+    <text x="455" y="155" font-size="28" font-weight="700">wartet</text>
+    <text x="455" y="190" font-size="20">bis Platz 1–4 behoben sind</text>
+
+    <text x="755" y="115" font-size="20" fill="#5a6472">3 · Betroffene</text>
+    <text x="755" y="155" font-size="28" font-weight="700">die Zoom-Nutzerin</text>
+    <text x="755" y="190" font-size="20">wer genau, bei welcher Aufgabe</text>
+  </g>
+  <g font-family="Inter, sans-serif" fill="#ffffff" text-anchor="middle">
+    <text x="1055" y="115" font-size="20" fill="#e5effb">4 · Der Satz</text>
+    <text x="1055" y="150" font-size="26" font-weight="700">Platz 5 bedeutet:</text>
+    <text x="1055" y="182" font-size="22">X wartet – das trifft Y</text>
+  </g>
+
+  <!-- Pfeile -->
+  <g stroke="#1a2f6e" stroke-width="4" fill="none">
+    <line x1="282" y1="145" x2="324" y2="145"/>
+    <line x1="582" y1="145" x2="624" y2="145"/>
+    <line x1="882" y1="145" x2="924" y2="145"/>
+  </g>
+  <g fill="#1a2f6e">
+    <polygon points="324,135 340,145 324,155"/>
+    <polygon points="624,135 640,145 624,155"/>
+    <polygon points="924,135 940,145 924,155"/>
+  </g>
+
+  <!-- Beispielsatz -->
+  <rect x="30" y="270" width="1150" height="110" rx="10" fill="#e5effb"/>
+  <g font-family="Inter, sans-serif" fill="#031121">
+    <text x="60" y="312" font-size="20" fill="#5a6472">Beispiel, Meilenstein 3 – je Barriere ein Satz:</text>
+    <text x="60" y="352" font-size="26" font-weight="700">Platz 5 bedeutet: Die Zoom-Nutzerin wartet auf ein lesbares Menü, bis die ersten vier behoben sind.</text>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="t d">
+  <title id="t">Target Size: Bedienelement 20 Pixel gegen 24 Pixel, jeweils mit Daumenauflagefläche</title>
+  <desc id="d">Links ein 20 mal 20 Pixel großer Button, der von der Daumenkontaktfläche fast vollständig verdeckt wird. Rechts ein 24 mal 24 Pixel großer Button mit Abstand zum nächsten Element, der dem Mindestmaß von WCAG 2.2 Erfolgskriterium 2.5.8 entspricht.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Arial, sans-serif; fill: #031121; }
+    .h { font-size: 26px; font-weight: 700; }
+    .l { font-size: 20px; fill: #5a6472; }
+    .m { font-size: 18px; fill: #5a6472; }
+  </style>
+  <rect width="960" height="420" fill="#ffffff"/>
+
+  <!-- linke Hälfte: 20 px -->
+  <text x="120" y="50" class="h">20 × 20 px</text>
+  <text x="120" y="80" class="l">unter dem Mindestmaß</text>
+  <!-- Skala 1 px = 6 Einheiten -->
+  <g transform="translate(120,120)">
+    <!-- Nachbarelemente -->
+    <rect x="0" y="40" width="120" height="120" rx="8" fill="#e2eefc" stroke="#c7cdd4"/>
+    <rect x="132" y="40" width="120" height="120" rx="8" fill="#e2eefc" stroke="#c7cdd4"/>
+    <rect x="264" y="40" width="120" height="120" rx="8" fill="#e2eefc" stroke="#c7cdd4"/>
+    <!-- Daumenfläche ~ 45 px Durchmesser -->
+    <ellipse cx="192" cy="100" rx="135" ry="120" fill="#031121" fill-opacity="0.18"/>
+    <ellipse cx="192" cy="100" rx="135" ry="120" fill="none" stroke="#031121" stroke-width="2" stroke-dasharray="8 6"/>
+    <!-- Maßlinie -->
+    <line x1="132" y1="180" x2="252" y2="180" stroke="#5a6472" stroke-width="2"/>
+    <line x1="132" y1="172" x2="132" y2="188" stroke="#5a6472" stroke-width="2"/>
+    <line x1="252" y1="172" x2="252" y2="188" stroke="#5a6472" stroke-width="2"/>
+    <text x="192" y="212" class="m" text-anchor="middle">20 px, kein Abstand</text>
+    <text x="192" y="255" class="m" text-anchor="middle">Daumen trifft drei Ziele zugleich</text>
+  </g>
+
+  <!-- Trennlinie -->
+  <line x1="480" y1="30" x2="480" y2="390" stroke="#c7cdd4" stroke-width="2"/>
+
+  <!-- rechte Hälfte: 24 px -->
+  <text x="560" y="50" class="h">24 × 24 px</text>
+  <text x="560" y="80" class="l">Mindestmaß nach WCAG 2.2, 2.5.8 (AA)</text>
+  <g transform="translate(560,120)">
+    <rect x="0" y="28" width="144" height="144" rx="8" fill="#b9e0ff" stroke="#7fb6f6"/>
+    <rect x="168" y="28" width="144" height="144" rx="8" fill="#b9e0ff" stroke="#7fb6f6"/>
+    <ellipse cx="72" cy="100" rx="135" ry="120" fill="#031121" fill-opacity="0.18"/>
+    <ellipse cx="72" cy="100" rx="135" ry="120" fill="none" stroke="#031121" stroke-width="2" stroke-dasharray="8 6"/>
+    <!-- Akzent: Häkchen-Marker gelb -->
+    <rect x="0" y="14" width="144" height="6" fill="#fcd430"/>
+    <line x1="0" y1="190" x2="144" y2="190" stroke="#5a6472" stroke-width="2"/>
+    <line x1="0" y1="182" x2="0" y2="198" stroke="#5a6472" stroke-width="2"/>
+    <line x1="144" y1="182" x2="144" y2="198" stroke="#5a6472" stroke-width="2"/>
+    <text x="72" y="222" class="m" text-anchor="middle">24 px plus Abstand</text>
+    <text x="156" y="255" class="m" text-anchor="middle">Daumen trifft ein Ziel</text>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="t d">
+  <title id="t">KI-Remediation: vier Kennzahlen derselben Studie</title>
+  <desc id="d">Balkendiagramm mit vier Balken: 99,7 Prozent syntaktisch valide, 80,2 Prozent konformitätsverbessernd, unter 26 Prozent vollständig gelöst, rund 30 Prozent mit unbeabsichtigten Strukturänderungen. Die ersten beiden Balken sind himmelblau (starke Hälfte), die beiden letzten grau (schwache Hälfte).</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Helvetica, Arial, sans-serif; fill: #031121; }
+    .lbl { font-size: 22px; }
+    .val { font-size: 34px; font-weight: 600; }
+    .grp { font-size: 20px; fill: #5a6472; letter-spacing: 0.04em; }
+    .axis { stroke: #c9ced6; stroke-width: 2; }
+  </style>
+  <rect width="1200" height="560" fill="#ffffff"/>
+  <!-- Gruppenbeschriftung -->
+  <text class="grp" x="80" y="50">STARKE HÄLFTE</text>
+  <text class="grp" x="660" y="50">SCHWACHE HÄLFTE – DIESELBE STUDIE</text>
+  <line x1="620" y1="30" x2="620" y2="470" stroke="#FCD430" stroke-width="4"/>
+  <!-- Grundlinie -->
+  <line class="axis" x1="60" y1="420" x2="1140" y2="420"/>
+  <!-- Balken: Höhe = Wert * 3,2 px -->
+  <rect x="100" y="101" width="180" height="319" fill="#3391FF"/>
+  <text class="val" x="190" y="88" text-anchor="middle">99,7 %</text>
+  <text class="lbl" x="190" y="458" text-anchor="middle">syntaktisch valide</text>
+
+  <rect x="360" y="163" width="180" height="257" fill="#3391FF"/>
+  <text class="val" x="450" y="150" text-anchor="middle">80,2 %</text>
+  <text class="lbl" x="450" y="458" text-anchor="middle">Konformität verbessert</text>
+
+  <rect x="680" y="337" width="180" height="83" fill="#8a939f"/>
+  <text class="val" x="770" y="324" text-anchor="middle">&lt; 26 %</text>
+  <text class="lbl" x="770" y="458" text-anchor="middle">vollständig gelöst</text>
+
+  <rect x="940" y="324" width="180" height="96" fill="#8a939f"/>
+  <text class="val" x="1030" y="311" text-anchor="middle">~ 30 %</text>
+  <text class="lbl" x="1030" y="458" text-anchor="middle">Patches mit unbeabsichtigten</text>
+  <text class="lbl" x="1030" y="486" text-anchor="middle">Strukturänderungen</text>
+
+  <text class="grp" x="60" y="540">LLM-Fixes an realen Barrierefreiheitsfehlern · arXiv 2605.27716 (05/2026) · beide Hälften gehören zusammen zitiert</text>
+</svg>

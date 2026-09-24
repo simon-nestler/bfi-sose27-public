@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-label="Balkenvergleich aus dem WebAIM Million 2026: Startseiten mit ARIA haben im Schnitt 59,1 erkannte Fehler, Startseiten ohne ARIA 42,0. 82,7 Prozent der Startseiten nutzen ARIA.">
+  <!-- Titelzeile -->
+  <g font-family="Inter, sans-serif" fill="#031121">
+    <text x="40" y="52" font-size="30" font-weight="700">Erkannte Fehler je Startseite – Mittelwert</text>
+    <text x="40" y="88" font-size="22" fill="#5a6472">WebAIM Million 2026 · eine Million Startseiten, automatisiert geprüft</text>
+  </g>
+
+  <!-- Skala -->
+  <g stroke="#c7cdd4" stroke-width="2">
+    <line x1="360" y1="130" x2="360" y2="360"/>
+  </g>
+
+  <!-- Balken 1: mit ARIA (59,1) – Länge 59,1 * 12 = 709 -->
+  <rect x="360" y="150" width="709" height="70" fill="#031121"/>
+  <rect x="360" y="150" width="10" height="70" fill="#FCD430"/>
+  <g font-family="Inter, sans-serif">
+    <text x="340" y="180" font-size="26" font-weight="700" fill="#031121" text-anchor="end">mit ARIA</text>
+    <text x="340" y="210" font-size="20" fill="#5a6472" text-anchor="end">82,7 % aller Startseiten</text>
+    <text x="1085" y="196" font-size="34" font-weight="700" fill="#031121">59,1</text>
+  </g>
+
+  <!-- Balken 2: ohne ARIA (42,0) – Länge 42 * 12 = 504 -->
+  <rect x="360" y="260" width="504" height="70" fill="#e5effb" stroke="#1a2f6e" stroke-width="3"/>
+  <g font-family="Inter, sans-serif">
+    <text x="340" y="290" font-size="26" font-weight="700" fill="#031121" text-anchor="end">ohne ARIA</text>
+    <text x="340" y="320" font-size="20" fill="#5a6472" text-anchor="end">17,3 % aller Startseiten</text>
+    <text x="880" y="306" font-size="34" font-weight="700" fill="#031121">42,0</text>
+  </g>
+
+  <!-- Fußzeile -->
+  <g font-family="Inter, sans-serif" fill="#5a6472" font-size="20">
+    <text x="360" y="395">0</text>
+    <text x="1069" y="395" text-anchor="end">60 Fehler</text>
+    <line x1="360" y1="370" x2="1069" y2="370" stroke="#c7cdd4" stroke-width="2"/>
+    <text x="40" y="440" fill="#031121" font-size="22" font-weight="700">Mehr Technik-Einsatz, mehr Barrieren – Technik-Fleiß ist keine Qualitätsachse.</text>
+  </g>
+</svg>

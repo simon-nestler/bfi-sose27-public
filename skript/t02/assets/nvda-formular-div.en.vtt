@@ -1,0 +1,430 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.100 --> 00:00:04.730
+- [Ryan] Hi, my name is Ryan Jones.
+
+00:00:04.730 --> 00:00:07.250
+I'm a senior project manager at TPGi,
+
+00:00:07.250 --> 00:00:09.330
+and I'm also a JAWS user.
+
+00:00:09.330 --> 00:00:11.050
+Today I'm going to show
+you a brief example
+
+00:00:11.050 --> 00:00:13.110
+of using JAWS on a webpage.
+
+00:00:13.110 --> 00:00:14.970
+We'll show a good example of a webpage
+
+00:00:14.970 --> 00:00:17.530
+that has accessibility built into it.
+
+00:00:17.530 --> 00:00:19.160
+And then an example of what happens
+
+00:00:19.160 --> 00:00:20.040
+when you're on a webpage
+
+00:00:20.040 --> 00:00:22.260
+that does not have accessibility.
+
+00:00:22.260 --> 00:00:24.310
+These samples are made by the W3C
+
+00:00:24.310 --> 00:00:26.950
+who also makes the web standards.
+
+00:00:26.950 --> 00:00:29.870
+So I have Google Chrome
+open and JAWS running,
+
+00:00:29.870 --> 00:00:31.540
+and I'm just going to start down arrowing
+
+00:00:31.540 --> 00:00:33.690
+through part of this particular webpage.
+
+00:00:33.690 --> 00:00:34.677
+And we'll hear what JAWS says.
+
+00:00:34.677 --> 00:00:37.720
+- [JAWS Screen Reader] Heading
+level two navigation menu,
+
+00:00:37.720 --> 00:00:39.290
+list of four items.
+
+00:00:39.290 --> 00:00:41.670
+- [Ryan] So JAWS told me I
+just moved past a heading.
+
+00:00:41.670 --> 00:00:43.350
+And then it says I'm moving into a list
+
+00:00:43.350 --> 00:00:44.808
+with four items in it.
+
+00:00:44.808 --> 00:00:45.890
+- [JAWS Screen Reader] Link Home.
+
+00:00:45.890 --> 00:00:48.110
+- [Ryan] Link home, which
+means this is a link
+
+00:00:48.110 --> 00:00:49.010
+that I could activate,
+
+00:00:49.010 --> 00:00:51.055
+and the name of the link is "home".
+
+00:00:51.055 --> 00:00:52.390
+- [JAWS Screen Reader] Link News.
+
+00:00:52.390 --> 00:00:53.647
+- [Ryan] A link called "news".
+
+00:00:53.647 --> 00:00:55.340
+- [JAWS Screen Reader]
+Visited link tickets.
+
+00:00:55.340 --> 00:00:57.650
+- [Ryan] A link called "tickets"
+that I have visited before.
+
+00:00:57.650 --> 00:00:59.265
+So it says "visited link".
+
+00:00:59.265 --> 00:01:00.230
+- [JAWS Screen Reader] Survey.
+
+00:01:00.230 --> 00:01:01.140
+- [Ryan] The word "survey",
+
+00:01:01.140 --> 00:01:03.129
+which is not a link, it's just text.
+
+00:01:03.129 --> 00:01:04.270
+- [JAWS Screen Reader] List end.
+
+00:01:04.270 --> 00:01:06.080
+- [Ryan] And then I'm
+at the end of the list.
+
+00:01:06.080 --> 00:01:06.957
+If I keep down arrowing.
+
+00:01:06.957 --> 00:01:09.730
+- [JAWS Screen Reader] Heading
+level one Citylights Survey.
+
+00:01:09.730 --> 00:01:10.690
+- [Ryan] I get to a new heading
+
+00:01:10.690 --> 00:01:12.491
+called "Citylights Survey".
+
+00:01:12.491 --> 00:01:13.324
+- [JAWS Screen Reader] Heading level two,
+
+00:01:13.324 --> 00:01:16.760
+This Week's Survey: More city
+parks - a pain or a gain?
+
+00:01:16.760 --> 00:01:18.130
+- [Ryan] So if I continue to arrow down,
+
+00:01:18.130 --> 00:01:19.420
+I'll move through the survey,
+
+00:01:19.420 --> 00:01:22.120
+but I'm going to jump forward
+and find the edit boxes
+
+00:01:22.120 --> 00:01:23.530
+where I know there are some information
+
+00:01:23.530 --> 00:01:25.240
+that I will need to type in.
+
+00:01:25.240 --> 00:01:29.137
+So I'm going to press a JAWS
+shortcut key to let me do that.
+
+00:01:29.137 --> 00:01:29.970
+- [JAWS Screen Reader] Name.
+
+00:01:29.970 --> 00:01:31.370
+Edit has popup menu.
+
+00:01:31.370 --> 00:01:32.610
+- [Ryan] And JAWS said "name",
+
+00:01:32.610 --> 00:01:34.170
+and it says that it's an edit box
+
+00:01:34.170 --> 00:01:36.680
+so that I know that I could
+type something in here,
+
+00:01:36.680 --> 00:01:37.730
+if I needed to.
+
+00:01:37.730 --> 00:01:40.256
+If I continue to move forward
+through these fields...
+
+00:01:40.256 --> 00:01:41.470
+- [JAWS Screen Reader] Email address.
+
+00:01:41.470 --> 00:01:42.930
+Edit has popup menu.
+
+00:01:42.930 --> 00:01:44.337
+- [Ryan] There's one for email address.
+
+00:01:44.337 --> 00:01:45.600
+- [JAWS Screen Reader] Retype email.
+
+00:01:45.600 --> 00:01:47.000
+Edit has popup menu.
+
+00:01:47.000 --> 00:01:48.551
+- [Ryan] I need to retype the email.
+
+00:01:48.551 --> 00:01:49.470
+- [JAWS Screen Reader] Submit button.
+
+00:01:49.470 --> 00:01:51.290
+- [Ryan] The submit button.
+
+00:01:51.290 --> 00:01:52.960
+There's another way that
+I could bring up a list
+
+00:01:52.960 --> 00:01:54.850
+of all of the form fields on this page,
+
+00:01:54.850 --> 00:01:56.803
+assuming that they are labeled properly.
+
+00:01:56.803 --> 00:01:58.850
+- [JAWS Screen Reader]
+Select a Form Field dialog.
+
+00:01:58.850 --> 00:02:00.360
+List one, list view.
+
+00:02:00.360 --> 00:02:02.600
+Submit button 15 of 15.
+
+00:02:02.600 --> 00:02:03.930
+- [Ryan] And I'm at
+the bottom of the page.
+
+00:02:03.930 --> 00:02:05.070
+So if I scroll up the list,
+
+00:02:05.070 --> 00:02:07.370
+I'll find all the form fields there.
+
+00:02:07.370 --> 00:02:08.530
+The names will make sense
+
+00:02:08.530 --> 00:02:12.075
+because this page does have
+accessibility built into it.
+
+00:02:12.075 --> 00:02:12.908
+- [JAWS Screen Reader] Escape.
+
+00:02:12.908 --> 00:02:15.730
+- [Ryan] Now I'm going to switch
+over to this similar page,
+
+00:02:15.730 --> 00:02:16.563
+same page,
+
+00:02:16.563 --> 00:02:18.997
+but it's going to not have
+accessibility built into it.
+
+00:02:18.997 --> 00:02:20.910
+- [JAWS Screen Reader]
+Welcome to Citylights.
+
+00:02:20.910 --> 00:02:22.160
+Inaccessible survey.
+
+00:02:22.160 --> 00:02:24.460
+- [Ryan] So this is the
+inaccessible version.
+
+00:02:24.460 --> 00:02:27.500
+If I'm back on that same
+navigation menu on this page
+
+00:02:27.500 --> 00:02:29.570
+where there's things that
+are not done properly,
+
+00:02:29.570 --> 00:02:31.134
+let's hear what JAWS says.
+
+00:02:31.134 --> 00:02:32.840
+- [JAWS Screen Reader]
+Unlabeled graphic graphic IMG
+
+00:02:32.840 --> 00:02:34.800
+slash nav Home on mouse over.
+
+00:02:34.800 --> 00:02:37.090
+- [Ryan] So this was the
+thing on the other page
+
+00:02:37.090 --> 00:02:37.923
+that said home link.
+
+00:02:37.923 --> 00:02:41.059
+Now it's giving me a bunch of gibberish.
+
+00:02:41.059 --> 00:02:42.310
+- [JAWS Screen Reader]
+Unlabeled graphic graphic
+
+00:02:42.310 --> 00:02:44.800
+IMG slash nav News on mouse over.
+
+00:02:44.800 --> 00:02:46.020
+- [Ryan] So these are images here
+
+00:02:46.020 --> 00:02:47.190
+in this navigation menu
+
+00:02:47.190 --> 00:02:48.730
+that are not properly labeled,
+
+00:02:48.730 --> 00:02:50.097
+so JAWS doesn't know what to call them.
+
+00:02:50.097 --> 00:02:51.462
+- [JAWS Screen Reader]
+Unlabeled graphic graphic
+
+00:02:51.462 --> 00:02:54.080
+IMG slash nav Facts on mouse over.
+
+00:02:54.080 --> 00:02:56.523
+- [Ryan] And I'm just
+pressing the down arrow key.
+
+00:02:56.523 --> 00:02:57.680
+- [JAWS Screen Reader]
+Unlabeled graphic graphic
+
+00:02:57.680 --> 00:03:00.300
+IMG slash nav Survey on mouse over.
+
+00:03:00.300 --> 00:03:01.730
+Citylights Survey.
+
+00:03:01.730 --> 00:03:03.440
+This Week's Survey: More city-
+
+00:03:03.440 --> 00:03:05.370
+- [Ryan] JAWS did not tell me
+that there were headings here
+
+00:03:05.370 --> 00:03:09.160
+because this text was not
+marked up with the heading text.
+
+00:03:09.160 --> 00:03:10.230
+In a similar example,
+
+00:03:10.230 --> 00:03:12.380
+if I bring up the same list of form fields
+
+00:03:12.380 --> 00:03:13.927
+that I used on the previous page...
+
+00:03:13.927 --> 00:03:16.150
+- [JAWS Screen Reader]
+Select a form field dialog.
+
+00:03:16.150 --> 00:03:17.860
+List one, list view.
+
+00:03:17.860 --> 00:03:20.060
+Unlabeled one combo box, quick menu,
+
+00:03:20.060 --> 00:03:21.060
+one of 14.
+
+00:03:21.060 --> 00:03:23.730
+- [Ryan] Instead of the nice
+properly labeled form fields
+
+00:03:23.730 --> 00:03:24.907
+that I had on the other page...
+
+00:03:24.907 --> 00:03:26.750
+- [JAWS Screen Reader]
+Radio button not checked.
+
+00:03:26.750 --> 00:03:28.190
+Radio button not checked.
+
+00:03:28.190 --> 00:03:29.630
+Radio button not checked.
+
+00:03:29.630 --> 00:03:30.950
+- [Ryan] I'm not getting any labels
+
+00:03:30.950 --> 00:03:32.950
+on these particular form fields,
+
+00:03:32.950 --> 00:03:34.480
+because they were not properly labeled
+
+00:03:34.480 --> 00:03:35.387
+for accessibility.
+
+00:03:35.387 --> 00:03:36.620
+- [JAWS Screen Reader] Escape.
+
+00:03:36.620 --> 00:03:37.640
+- [Ryan] As the screen reader user,
+
+00:03:37.640 --> 00:03:39.670
+I can use all kinds of
+different shortcut keys
+
+00:03:39.670 --> 00:03:41.400
+to move around this page,
+
+00:03:41.400 --> 00:03:42.840
+move to different form fields,
+
+00:03:42.840 --> 00:03:44.538
+links, buttons, headings.
+
+00:03:44.538 --> 00:03:46.700
+All of those things that
+I can move to, though,
+
+00:03:46.700 --> 00:03:49.434
+have to have been coded
+properly for accessibility,
+
+00:03:49.434 --> 00:03:52.370
+in order for the shortcut keys to work,
+
+00:03:52.370 --> 00:03:54.670
+and in order for JAWS
+to read the information.
+

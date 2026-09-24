@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="t d">
+  <title id="t">Der Doppelblock: zwei 90-Minuten-Einheiten am Stück, verbunden über eine Zwischenaufgabe zur nächsten Woche</title>
+  <desc id="d">Schema eines Wochenblocks. Einheit 1 ist die Theorie-Einheit von 90 Minuten und baut den Kernkonflikt der Woche auf. Nach der Pause folgt Einheit 2, die Praxis-Einheit von 90 Minuten, die dem Konflikt Material entgegensetzt. Ein Pfeil mit der Beschriftung Zwischenaufgabe, höchstens 20 Minuten, führt zum Block der nächsten Woche.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Helvetica, Arial, sans-serif; fill: #031121; }
+    .h { font-size: 26px; font-weight: 700; }
+    .box-t { font-size: 24px; font-weight: 700; fill: #ffffff; }
+    .box-s { font-size: 19px; fill: #ffffff; }
+    .box-t2 { font-size: 24px; font-weight: 700; fill: #1a2f6e; }
+    .box-s2 { font-size: 19px; fill: #031121; }
+    .m { font-size: 18px; fill: #5a6472; }
+    .b { font-size: 18px; font-weight: 700; fill: #031121; }
+    .theorie { fill: #1a2f6e; }
+    .praxis { fill: #ffffff; stroke: #1a2f6e; stroke-width: 3; }
+    .pause { fill: #fcd430; }
+    .naechste { fill: #eef1f5; stroke: #c7cdd4; stroke-width: 2; }
+    .pfeil { stroke: #5a6472; stroke-width: 3; fill: none; }
+    .pfeilkopf { fill: #5a6472; }
+  </style>
+  <rect width="1200" height="560" fill="#ffffff"/>
+
+  <text class="h" x="40" y="52">Ein Wochentermin, 4 Lehrstunden am Stück</text>
+  <text class="m" x="40" y="84">Theorie und Praxis im Verhältnis 50 : 50 – der Formatwechsel in der Blockmitte ist Konstruktion, nicht Pause</text>
+
+  <!-- Einheit 1: Theorie -->
+  <rect class="theorie" x="40" y="130" width="440" height="200" rx="12"/>
+  <text class="box-t" x="70" y="180">Einheit 1 · Theorie</text>
+  <text class="box-s" x="70" y="216">90 Minuten</text>
+  <text class="box-s" x="70" y="256">baut den Kernkonflikt</text>
+  <text class="box-s" x="70" y="284">der Woche auf</text>
+
+  <!-- Formatwechsel -->
+  <rect class="pause" x="510" y="170" width="120" height="120" rx="12"/>
+  <text class="b" x="570" y="222" text-anchor="middle">Format-</text>
+  <text class="b" x="570" y="248" text-anchor="middle">wechsel</text>
+
+  <!-- Einheit 2: Praxis -->
+  <rect class="praxis" x="660" y="130" width="440" height="200" rx="12"/>
+  <text class="box-t2" x="690" y="180">Einheit 2 · Praxis</text>
+  <text class="box-s2" x="690" y="216">90 Minuten</text>
+  <text class="box-s2" x="690" y="256">setzt dem Konflikt</text>
+  <text class="box-s2" x="690" y="284">Material entgegen</text>
+
+  <!-- Brücke zur nächsten Woche -->
+  <path class="pfeil" d="M 880 330 C 880 420, 400 420, 250 452"/>
+  <polygon class="pfeilkopf" points="238,455 262,443 258,466"/>
+  <text class="b" x="600" y="392" text-anchor="middle">Zwischenaufgabe · höchstens 20 Minuten</text>
+  <text class="m" x="600" y="420" text-anchor="middle">erzeugt das Material, ohne das die Folgewoche nicht startet</text>
+
+  <rect class="naechste" x="40" y="440" width="440" height="80" rx="12"/>
+  <text class="b" x="70" y="474">Nächste Woche: Einheit 1 · Theorie</text>
+  <text class="m" x="70" y="502">beginnt mit Ihren mitgebrachten Ergebnissen</text>
+</svg>

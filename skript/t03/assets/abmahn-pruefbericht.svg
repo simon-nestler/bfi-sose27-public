@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="ab-titel">
+  <title id="ab-titel">Nachgebaute Struktur eines Abmahn-Prüfberichts: Kopf mit Kanzleiangabe, Behauptung eines Verstoßes gegen WCAG 2.2, automatisierte Fundliste, Forderung mit Frist und Kostennote – anonymisiert, zur Widerspruchssuche</title>
+  <style>
+    text { font-family: Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .kopf { font-size: 24px; font-weight: 700; letter-spacing: 2px; fill: #5a6472; }
+    .titel { font-size: 40px; font-weight: 700; fill: #031121; }
+    .zeile { font-size: 26px; fill: #031121; }
+    .klein { font-size: 22px; fill: #5a6472; }
+    .marker { font-size: 22px; font-weight: 700; fill: #031121; }
+    .fett { font-size: 26px; font-weight: 700; fill: #031121; }
+  </style>
+
+  <rect x="0" y="0" width="1600" height="900" fill="#FFFFFF"/>
+
+  <!-- Dokumentblatt -->
+  <rect x="200" y="40" width="1000" height="820" fill="#FFFFFF" stroke="#c7cdd4" stroke-width="3"/>
+  <rect x="200" y="40" width="1000" height="90" fill="#031121"/>
+  <text class="kopf" x="240" y="95" style="fill:#FFFFFF">KANZLEI [ANONYMISIERT] · RECHTSANWÄLTE</text>
+  <text class="klein" x="1160" y="95" text-anchor="end" style="fill:#9aa1aa">Aktenzeichen [xxx]</text>
+
+  <text class="titel" x="240" y="200">Abmahnung wegen Verstoßes gegen das BFSG</text>
+  <text class="zeile" x="240" y="250">Sehr geehrte Damen und Herren,</text>
+  <text class="zeile" x="240" y="300">Ihre Website [shop.example] verstößt gegen die gesetzlich</text>
+  <text class="zeile" x="240" y="340">verbindlichen Anforderungen der WCAG 2.2 (Stufe AA).</text>
+
+  <!-- Fundliste -->
+  <rect x="240" y="380" width="920" height="230" fill="#e2eefc"/>
+  <text class="fett" x="260" y="420">Automatisierter Prüfbericht (Auszug, 14 Fundstellen)</text>
+  <text class="zeile" x="260" y="465">1. Kontrastverhältnis unter 4,5:1 (WCAG 1.4.3)</text>
+  <text class="zeile" x="260" y="505">2. Fokusdarstellung verdeckt (WCAG 2.4.11 – neu in 2.2)</text>
+  <text class="zeile" x="260" y="545">3. Fehlende Alternativtexte (WCAG 1.1.1)</text>
+  <text class="zeile" x="260" y="585">4. Zielgröße unter 24 × 24 px (WCAG 2.5.8 – neu in 2.2)</text>
+
+  <text class="zeile" x="240" y="660">Wir fordern Sie auf, bis zum [Datum + 14 Tage] eine strafbewehrte</text>
+  <text class="zeile" x="240" y="700">Unterlassungserklärung abzugeben. Andernfalls droht ein Bußgeld</text>
+  <text class="zeile" x="240" y="740">von bis zu 100.000 € sowie die Untersagung des Vertriebs.</text>
+  <text class="fett" x="240" y="800">Kostennote: 1.780,00 € zzgl. 490,00 € Prüfbericht</text>
+
+  <!-- Randmarker -->
+  <rect x="1240" y="290" width="300" height="70" rx="8" fill="#FCD430"/>
+  <text class="marker" x="1390" y="333" text-anchor="middle">Welche Fassung gilt?</text>
+  <line x1="1240" y1="325" x2="1200" y2="325" stroke="#031121" stroke-width="4"/>
+
+  <rect x="1240" y="410" width="300" height="70" rx="8" fill="#FCD430"/>
+  <text class="marker" x="1390" y="453" text-anchor="middle">Wer ist verpflichtet?</text>
+  <line x1="1240" y1="445" x2="1200" y2="445" stroke="#031121" stroke-width="4"/>
+
+  <rect x="1240" y="690" width="300" height="70" rx="8" fill="#FCD430"/>
+  <text class="marker" x="1390" y="733" text-anchor="middle">Wer ist zuständig?</text>
+  <line x1="1240" y1="725" x2="1200" y2="725" stroke="#031121" stroke-width="4"/>
+
+  <text class="klein" x="40" y="880">Struktur nachgebaut und anonymisiert; Beträge laut Branchenangaben (Anbieterquelle). Kein reales Schreiben.</text>
+</svg>

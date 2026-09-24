@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Taktung des Generalproben-Karussells: je Team zwölf Minuten, davon fünf Minuten Kurzfassung und sieben Minuten Verteidigung; die Nachfragen stellen das Review-Team vom Vormittag und die Lehrperson mit einer gezogenen Pool-Frage an eine benannte Einzelperson; die übrigen Teams beobachten mit Bogen">
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Arial, sans-serif; fill: #031121; }
+    .h { font-size: 30px; font-weight: 700; }
+    .t { font-size: 22px; }
+    .s { font-size: 20px; fill: #5A6472; }
+    .w { fill: #FFFFFF; }
+  </style>
+  <text x="40" y="60" class="h">Ein Durchgang · 12 Minuten</text>
+  <!-- Zeitbalken: 1100 px = 12 Min, 1 Min = 91,67 px -->
+  <rect x="40" y="90" width="458" height="90" rx="8" fill="#7FB2E5"/>
+  <text x="60" y="128" class="h">5 Min · Kurzfassung</text>
+  <text x="60" y="162" class="t">nur Kernbefunde und Position</text>
+  <rect x="498" y="90" width="642" height="90" rx="8" fill="#031121"/>
+  <text x="518" y="128" class="h w">7 Min · Verteidigung</text>
+  <text x="518" y="162" class="t w">Nachfragen – hart moderiert, keine Verhandlung</text>
+  <!-- Minutenskala -->
+  <g fill="#5A6472">
+    <rect x="40" y="190" width="1100" height="2"/>
+    <rect x="40" y="186" width="2" height="10"/><rect x="498" y="186" width="2" height="10"/><rect x="1138" y="186" width="2" height="10"/>
+  </g>
+  <text x="40" y="220" class="s">0</text>
+  <text x="488" y="220" class="s">5</text>
+  <text x="1118" y="220" class="s">12</text>
+  <!-- Wer fragt -->
+  <text x="40" y="290" class="h">Wer fragt</text>
+  <rect x="40" y="310" width="14" height="120" rx="4" fill="#FCD430"/>
+  <text x="80" y="340" class="t"><tspan font-weight="700">Review-Team vom Vormittag</tspan> – es kennt die Lücken</text>
+  <text x="80" y="380" class="t"><tspan font-weight="700">Lehrperson</tspan> – eine gezogene Frage aus dem Semester-Pool</text>
+  <text x="80" y="420" class="t">an eine <tspan font-weight="700">benannte Einzelperson</tspan>, entlang der Rollendeklaration</text>
+  <!-- Wer beobachtet -->
+  <rect x="640" y="300" width="520" height="140" rx="8" fill="#D9E4EE"/>
+  <text x="660" y="335" class="h">Übrige Teams: Bogen</text>
+  <text x="660" y="370" class="t">stärkste Antwort · schwächste Antwort</text>
+  <text x="660" y="404" class="t">Körpersprache bei der unbequemsten Frage</text>
+  <text x="40" y="490" class="s">Fallback bei Zeitnot: Kurzfassung auf 3 Minuten kürzen – die Verteidigung bleibt bei 7. Geübt wird das Antworten, nicht das Präsentieren.</text>
+</svg>

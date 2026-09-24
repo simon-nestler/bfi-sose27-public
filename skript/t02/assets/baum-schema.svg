@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-label="Vom Code über den Browser zum Accessibility Tree zum Screenreader – die Pixel auf dem Bildschirm werden nie gelesen">
+  <!-- Kette: Code -> Browser -> Accessibility Tree -> Screenreader -->
+  <g stroke="var(--ink, #031121)" stroke-width="3" fill="var(--paper, #FFFFFF)">
+    <rect x="40" y="80" width="250" height="130" rx="10"/>
+    <rect x="340" y="80" width="250" height="130" rx="10"/>
+    <rect x="940" y="80" width="250" height="130" rx="10"/>
+  </g>
+  <rect x="640" y="80" width="250" height="130" rx="10" fill="var(--ink, #031121)"/>
+  <rect x="664" y="182" width="202" height="8" rx="4" fill="#FCD430"/>
+
+  <g font-family="Inter, sans-serif" fill="var(--ink, #031121)" text-anchor="middle">
+    <text x="165" y="135" font-size="26" font-weight="700">Ihr Code</text>
+    <text x="165" y="172" font-size="21">HTML, ARIA</text>
+    <text x="465" y="135" font-size="26" font-weight="700">Browser</text>
+    <text x="465" y="172" font-size="21">leitet ab</text>
+    <text x="1065" y="135" font-size="26" font-weight="700">Screenreader</text>
+    <text x="1065" y="172" font-size="21">Sprache · Braille</text>
+  </g>
+  <g font-family="Inter, sans-serif" fill="var(--paper, #FFFFFF)" text-anchor="middle">
+    <text x="765" y="130" font-size="24" font-weight="700">Accessibility Tree</text>
+    <text x="765" y="165" font-size="21">Name · Rolle · Wert</text>
+  </g>
+
+  <!-- Pfeile der Kette -->
+  <g stroke="var(--ink, #031121)" stroke-width="3" fill="var(--ink, #031121)">
+    <line x1="292" y1="145" x2="326" y2="145"/>
+    <path d="M 326 137 L 340 145 L 326 153 Z"/>
+    <line x1="592" y1="145" x2="626" y2="145"/>
+    <path d="M 626 137 L 640 145 L 626 153 Z"/>
+    <line x1="892" y1="145" x2="926" y2="145"/>
+    <path d="M 926 137 L 940 145 L 926 153 Z"/>
+  </g>
+
+  <!-- Der Weg, den es nicht gibt: Pixel -->
+  <g stroke="var(--ink, #031121)" stroke-width="2.5" fill="none" stroke-dasharray="10 8">
+    <line x1="165" y1="212" x2="165" y2="330"/>
+    <line x1="165" y1="330" x2="1045" y2="330"/>
+    <line x1="1065" y1="330" x2="1065" y2="226"/>
+  </g>
+  <path d="M 1057 226 L 1065 212 L 1073 226 Z" fill="var(--ink, #031121)"/>
+  <!-- Kreuz auf dem Pixel-Weg -->
+  <g stroke="var(--ink, #031121)" stroke-width="5">
+    <line x1="588" y1="308" x2="632" y2="352"/>
+    <line x1="632" y1="308" x2="588" y2="352"/>
+  </g>
+  <text x="610" y="402" font-family="Inter, sans-serif" font-size="22" fill="var(--ink, #031121)" text-anchor="middle">Pixel auf dem Bildschirm – diesen Weg gibt es nicht</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
+  <title id="t">Das Plakat: drei Erkennungsmerkmale, zwei Textsorten</title>
+  <desc id="d">Schema mit zwei Spalten. Links: KI-Ausgaben, auf dem Plakat seit Woche 4. Rechts: Anbieter-Marketing, neu seit heute. Drei Zeilen verbinden beide Spalten: Garantie ohne Prüfumfang, Konformität ohne Normfassung, KI-gestützt ohne Verfahren. Unten der gemeinsame Nenner: beide Textsorten optimieren auf Überzeugungskraft statt auf Nachprüfbarkeit.</desc>
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Helvetica, Arial, sans-serif; fill: #031121; }
+    .head { font-size: 26px; font-weight: 600; }
+    .sub { font-size: 19px; fill: #5a6472; }
+    .row { font-size: 27px; font-weight: 600; fill: #ffffff; }
+    .rowsub { font-size: 19px; fill: #ffffff; }
+    .foot { font-size: 22px; }
+    .neu { font-size: 16px; font-weight: 600; fill: #031121; letter-spacing: 0.06em; }
+  </style>
+  <rect width="1200" height="600" fill="#ffffff"/>
+  <!-- Spaltenköpfe -->
+  <text class="head" x="80" y="60">KI-Ausgaben</text>
+  <text class="sub" x="80" y="90">auf dem Plakat seit Woche 4</text>
+  <text class="head" x="700" y="60">Anbieter-Marketing</text>
+  <text class="sub" x="700" y="90">neu seit heute</text>
+  <rect x="985" y="40" width="60" height="28" rx="4" fill="#FCD430"/>
+  <text class="neu" x="1015" y="60" text-anchor="middle">NEU</text>
+
+  <!-- Zeile 1 -->
+  <rect x="80" y="120" width="1040" height="96" rx="6" fill="#031121"/>
+  <text class="row" x="110" y="160">Garantie ohne Prüfumfang</text>
+  <text class="rowsub" x="110" y="194">„geprüft“ – aber welche Seiten, welche Kriterien, welche Hilfstechnik?</text>
+
+  <!-- Zeile 2 -->
+  <rect x="80" y="236" width="1040" height="96" rx="6" fill="#1A2F6E"/>
+  <text class="row" x="110" y="276">Konformität ohne Normfassung</text>
+  <text class="rowsub" x="110" y="310">„WCAG-konform“ – 2.0, 2.1 oder 2.2? Stufe A, AA oder AAA?</text>
+
+  <!-- Zeile 3 -->
+  <rect x="80" y="352" width="1040" height="96" rx="6" fill="#3391FF"/>
+  <text class="row" x="110" y="392">„KI-gestützt“ ohne Verfahren</text>
+  <text class="rowsub" x="110" y="426">Welches Modell, welche Eingabe, welche Prüfung der Ausgabe?</text>
+
+  <!-- Verbindungsmarker: gleiche Zeile, beide Spalten -->
+  <line x1="600" y1="120" x2="600" y2="448" stroke="#FCD430" stroke-width="4" stroke-dasharray="10 8"/>
+
+  <!-- Fuß -->
+  <rect x="80" y="480" width="1040" height="2" fill="#c9ced6"/>
+  <text class="foot" x="80" y="525">Gemeinsamer Nenner: Beide Textsorten optimieren auf Überzeugungskraft statt auf Nachprüfbarkeit –</text>
+  <text class="foot" x="80" y="556">und beide scheitern an denselben Nachfragen: Prüfumfang, Normfassung, Verfahren, Grenzen.</text>
+</svg>

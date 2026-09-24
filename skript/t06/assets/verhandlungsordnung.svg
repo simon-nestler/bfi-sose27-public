@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="vo-title">
+  <title id="vo-title">Verhandlungsordnung je Meldung, acht Minuten: zwei Minuten Anklage, zwei Minuten Verteidigung, drei Minuten Beweisaufnahme am lebenden Objekt, eine Minute Juryspruch mit Begründung</title>
+  <style>
+    text { font-family: Inter, 'Neue Haas Unica', sans-serif; fill: #031121; }
+    .lbl { font-size: 28px; font-weight: 700; }
+    .min { font-size: 26px; font-weight: 400; }
+    .sub { font-size: 24px; font-weight: 400; }
+    .light { fill: #FFFFFF; }
+    .s1 { fill: #031121; }
+    .s2 { fill: #1A2F6E; }
+    .s3 { fill: #8FB8DE; }
+    .s4 { fill: #E6EDF3; }
+    .axis { stroke: #031121; stroke-width: 2; }
+    .tick { fill: #FCD430; }
+  </style>
+
+  <!-- 8 Minuten = 1200 px, 150 px je Minute -->
+  <rect class="s1" x="0" y="80" width="300" height="120"/>
+  <rect class="s2" x="300" y="80" width="300" height="120"/>
+  <rect class="s3" x="600" y="80" width="450" height="120"/>
+  <rect class="s4" x="1050" y="80" width="150" height="120"/>
+
+  <text class="lbl light" x="24" y="130">Anklage</text>
+  <text class="min light" x="24" y="172">2 Min · „Fehlalarm, weil …“</text>
+  <text class="lbl light" x="324" y="130">Verteidigung</text>
+  <text class="min light" x="324" y="172">2 Min · „Treffer, weil …“</text>
+  <text class="lbl" x="624" y="130">Beweisaufnahme</text>
+  <text class="min" x="624" y="172">3 Min · am lebenden Objekt</text>
+  <text class="lbl" x="1066" y="130">Jury</text>
+  <text class="min" x="1066" y="172">1 Min</text>
+
+  <!-- Minutenachse -->
+  <line class="axis" x1="0" y1="230" x2="1200" y2="230"/>
+  <rect class="tick" x="0" y="222" width="6" height="16"/>
+  <rect class="tick" x="297" y="222" width="6" height="16"/>
+  <rect class="tick" x="597" y="222" width="6" height="16"/>
+  <rect class="tick" x="1047" y="222" width="6" height="16"/>
+  <rect class="tick" x="1194" y="222" width="6" height="16"/>
+  <text class="sub" x="0" y="268">0</text>
+  <text class="sub" x="290" y="268">2</text>
+  <text class="sub" x="590" y="268">4</text>
+  <text class="sub" x="1040" y="268">7</text>
+  <text class="sub" x="1170" y="268">8 Min</text>
+
+  <text class="sub" x="0" y="340">Zulässige Urteile: Fehlalarm · echter Treffer · nicht entscheidbar (mit Nachweis, wo gesucht wurde).</text>
+  <text class="sub" x="0" y="384">Beweisaufnahme: Screenreader-Gegenprobe oder DOM-Blick am Projektor – durch eine benannte Person der Partei.</text>
+</svg>

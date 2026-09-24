@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="ep-title">
+  <title id="ep-title">Sprachmodell und axe-core im selben Test: F1 jeweils etwa 0,65, Präzision jeweils etwa 0,5 – die Hälfte der Meldungen war im Studien-Setting kein echtes Problem (arXiv 2605.27716, Mai 2026)</title>
+  <style>
+    text { font-family: Inter, 'Neue Haas Unica', sans-serif; fill: #031121; }
+    .lbl { font-size: 30px; font-weight: 600; }
+    .val { font-size: 30px; font-weight: 700; }
+    .sub { font-size: 24px; font-weight: 400; }
+    .f1 { fill: #031121; }
+    .prec { fill: #8FB8DE; }
+    .rail { fill: #E6EDF3; }
+    .half { stroke: #FCD430; stroke-width: 6; }
+  </style>
+
+  <!-- Sprachmodell -->
+  <text class="lbl" x="0" y="40">Sprachmodell (LLM)</text>
+  <text class="sub" x="0" y="88">F1</text>
+  <rect class="rail" x="160" y="62" width="800" height="40"/>
+  <rect class="f1" x="160" y="62" width="520" height="40"/>
+  <text class="val" x="980" y="93">≈ 0,65</text>
+  <text class="sub" x="0" y="146">Präzision</text>
+  <rect class="rail" x="160" y="120" width="800" height="40"/>
+  <rect class="prec" x="160" y="120" width="400" height="40"/>
+  <text class="val" x="980" y="151">≈ 0,5</text>
+
+  <!-- axe-core -->
+  <text class="lbl" x="0" y="240">axe-core (regelbasiert)</text>
+  <text class="sub" x="0" y="288">F1</text>
+  <rect class="rail" x="160" y="262" width="800" height="40"/>
+  <rect class="f1" x="160" y="262" width="520" height="40"/>
+  <text class="val" x="980" y="293">≈ 0,65</text>
+  <text class="sub" x="0" y="346">Präzision</text>
+  <rect class="rail" x="160" y="320" width="800" height="40"/>
+  <rect class="prec" x="160" y="320" width="400" height="40"/>
+  <text class="val" x="980" y="351">≈ 0,5</text>
+
+  <!-- Halbe-Linie -->
+  <line class="half" x1="560" y1="50" x2="560" y2="380"/>
+  <text class="sub" x="576" y="404">0,5 = jede zweite Meldung kein echtes Problem</text>
+
+  <!-- Legende -->
+  <rect class="f1" x="0" y="480" width="28" height="28"/>
+  <text class="sub" x="40" y="502">F1 (harmonisches Mittel aus Präzision und Recall)</text>
+  <rect class="prec" x="640" y="480" width="28" height="28"/>
+  <text class="sub" x="680" y="502">Präzision (Anteil echter Treffer an den Meldungen)</text>
+  <text class="sub" x="0" y="548">Quelle: arXiv 2605.27716 (Mai 2026), ein Modell, ein Korpus, ein Prompt-Verfahren – Setting mitzitieren.</text>
+</svg>

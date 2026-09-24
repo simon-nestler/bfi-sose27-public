@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" role="img" aria-labelledby="gds-title">
+  <title id="gds-title">GDS-Test 2017: 143 bekannte Barrieren, zehn Werkzeuge. Bestes Werkzeug fand 41 Prozent der Barrierearten, schlechtestes 17 Prozent, 29 Prozent fand kein einziges Werkzeug.</title>
+  <style>
+    text { font-family: Inter, 'Neue Haas Unica', sans-serif; fill: #031121; }
+    .lbl { font-size: 30px; font-weight: 600; }
+    .val { font-size: 30px; font-weight: 700; }
+    .sub { font-size: 25px; font-weight: 400; }
+    .bar-best { fill: #031121; }
+    .bar-worst { fill: #7fb6f6; }
+    .bar-none { fill: #b9e0ff; stroke: #031121; stroke-width: 3; stroke-dasharray: 10 8; }
+    .accent { fill: #FCD430; }
+  </style>
+  <text class="sub" x="0" y="30">Anteil der 143 bekannten Barrierearten, die ein Werkzeug fand</text>
+
+  <rect class="accent" x="0" y="60" width="10" height="34"/>
+  <text class="lbl" x="26" y="86">Bestes Werkzeug</text>
+  <rect class="bar-best" x="0" y="104" width="410" height="52"/>
+  <text class="val" x="430" y="141">41 %</text>
+
+  <text class="lbl" x="26" y="216">Schlechtestes Werkzeug</text>
+  <rect class="bar-worst" x="0" y="234" width="170" height="52"/>
+  <text class="val" x="190" y="271">17 %</text>
+
+  <rect class="accent" x="0" y="320" width="10" height="34"/>
+  <text class="lbl" x="26" y="346">Von keinem der zehn Werkzeuge gefunden</text>
+  <rect class="bar-none" x="2" y="364" width="288" height="52"/>
+  <text class="val" x="310" y="401">29 %</text>
+
+  <line x1="0" y1="470" x2="1000" y2="470" stroke="#031121" stroke-width="2"/>
+  <text class="sub" x="0" y="520">Gezählt werden Barrierearten, nicht Fehler-Instanzen (GDS/GOV.UK, 24.02.2017).</text>
+</svg>

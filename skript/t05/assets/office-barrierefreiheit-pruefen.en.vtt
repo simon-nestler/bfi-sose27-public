@@ -1,0 +1,4048 @@
+WEBVTT
+Kind: captions
+Language: en
+
+1
+00:00:01.890 --> 00:00:03.830
+&gt;&gt; Hi, good morning everyone.
+
+2
+00:00:03.830 --> 00:00:08.485
+My name is [indiscernible] and I
+am from the [indiscernible]
+Accessibility team,
+
+3
+00:00:08.486 --> 00:00:10.870
+one of the senior
+program managers here.
+
+4
+00:00:11.310 --> 00:00:15.010
+I have Sean Marihugh
+[phonetic] here from the
+[indiscernible] Organization.
+
+5
+00:00:15.010 --> 00:00:17.160
+He's from the [indiscernible]
+Accessibility Team today.
+
+6
+00:00:17.670 --> 00:00:20.680
+He's going to present and
+cover a topic for the webinar,
+
+7
+00:00:21.600 --> 00:00:25.970
+and today's topic is about
+Creating Accessible Content
+in Word and PowerPoint.
+
+8
+00:00:26.910 --> 00:00:29.210
+The format of the webinar
+is going to be an hour long,
+
+9
+00:00:30.180 --> 00:00:34.360
+and the last 15 minutes
+we will go ahead and take
+any questions you have.
+
+10
+00:00:34.790 --> 00:00:39.180
+So continue posting all your
+questions in the Q&amp;A window here,
+and I'll surface [phonetic]
+
+11
+00:00:39.180 --> 00:00:40.180
+them towards the end.
+
+12
+00:00:40.940 --> 00:00:43.050
+With that said,
+let's kickstart the webinar.
+
+13
+00:00:43.450 --> 00:00:44.570
+Shawn, over to you.
+
+14
+00:00:44.570 --> 00:00:45.570
+Thanks.
+
+15
+00:00:46.150 --> 00:00:46.860
+&gt;&gt; Sounds good.
+
+16
+00:00:46.860 --> 00:00:48.840
+Thank you [indiscernible].
+Good morning, everyone.
+
+17
+00:00:49.220 --> 00:00:51.010
+Thanks for those of you
+who have joined so far.
+
+18
+00:00:52.160 --> 00:00:55.677
+As [indiscernible] mentioned,
+I am going to cover some tips
+
+19
+00:00:55.678 --> 00:00:58.550
+on creating accessible
+content, mostly focused
+
+20
+00:00:58.550 --> 00:01:02.950
+on Word and PowerPoint,
+but whenever possible,
+I'll try to bring
+
+21
+00:01:02.950 --> 00:01:06.160
+it out to other products
+too like Outlook, some
+
+22
+00:01:06.160 --> 00:01:10.220
+of our online offerings and
+even tools like accessibility
+inside [phonetic]
+
+23
+00:01:10.220 --> 00:01:11.390
+briefly near the end.
+
+24
+00:01:13.430 --> 00:01:15.840
+Again, this is all just to
+cover some of the basics
+
+25
+00:01:15.840 --> 00:01:20.910
+of what you can do to make
+your content more consumable
+for people with disabilities.
+
+26
+00:01:21.590 --> 00:01:25.220
+But also, there's a lot of
+great practices that, while
+
+27
+00:01:25.220 --> 00:01:27.050
+it's better from an
+accessibility perspective,
+
+28
+00:01:27.050 --> 00:01:29.540
+it's also just better for
+everyone consuming your content.
+
+29
+00:01:30.400 --> 00:01:35.320
+So I'll try to call out some
+of those examples as well.
+
+30
+00:01:35.320 --> 00:01:37.650
+Just to give you an idea of
+what we'll run through today -
+
+31
+00:01:37.650 --> 00:01:43.280
+I'll talk a little but
+about what accessibility
+really means, why it's such
+
+32
+00:01:43.280 --> 00:01:49.660
+an important topic, and
+then I'll cover in the main
+portion, I'll do several demos.
+
+33
+00:01:50.250 --> 00:01:54.270
+I have a sample document and
+sample slides that we'll work
+through and I'll just show
+
+34
+00:01:54.270 --> 00:01:57.510
+you how to do a lot these
+of things on this list.
+
+35
+00:01:58.330 --> 00:02:01.810
+We'll first start by looking
+at what the accessibility
+checker is able to
+
+36
+00:02:01.810 --> 00:02:03.720
+do, I'll talk more
+about that shortly.
+
+37
+00:02:04.460 --> 00:02:07.180
+And then there's a few
+things the tool isn't able
+
+38
+00:02:07.180 --> 00:02:10.990
+to check for automatically,
+but some other recommendations
+we'd still have.
+
+39
+00:02:13.290 --> 00:02:18.460
+There's an option in Outlook
+for request accessible content.
+
+40
+00:02:19.340 --> 00:02:22.650
+It shows up as a reminder
+for anyone who's sending
+you content that
+
+41
+00:02:22.650 --> 00:02:24.780
+they know you'd prefer it
+be in an accessible format.
+
+42
+00:02:25.920 --> 00:02:27.540
+And then as I mentioned,
+I'll briefly touch
+
+43
+00:02:27.540 --> 00:02:31.360
+on accessibility insights
+before we get into some Q&amp;A.
+
+44
+00:02:33.750 --> 00:02:35.670
+So let's go ahead
+and jump right in.
+
+45
+00:02:35.670 --> 00:02:40.620
+I'm just going to be
+working through this
+slide and chipping away
+
+46
+00:02:42.000 --> 00:02:43.200
+at each of the
+bullet points here.
+
+47
+00:02:44.280 --> 00:02:48.240
+When we're talking about
+accessibility, we often
+reference the number that one
+
+48
+00:02:48.240 --> 00:02:50.300
+in five people in the
+world has a disability.
+
+49
+00:02:51.460 --> 00:02:52.810
+Now, disability is a spectrum.
+
+50
+00:02:54.140 --> 00:02:59.140
+There's just a wide
+range of disability and
+how it can impact folks.
+
+51
+00:03:00.470 --> 00:03:07.910
+But when we think about
+designing content that is
+accessible and meets the needs
+
+52
+00:03:07.910 --> 00:03:11.610
+of those one in five
+people, it's also a great
+experience for everyone.
+
+53
+00:03:13.300 --> 00:03:16.320
+But when we think about
+delivering content to customers
+
+54
+00:03:16.320 --> 00:03:20.630
+or stakeholders with
+that same figure -
+
+55
+00:03:20.630 --> 00:03:23.300
+let's imagine that one in five
+of our stakeholders, one in five
+
+56
+00:03:23.300 --> 00:03:26.090
+of our customers
+has a disability -
+
+57
+00:03:27.150 --> 00:03:31.510
+if we're not designing
+things in content and
+information and websites
+
+58
+00:03:31.510 --> 00:03:36.640
+and apps that don't meet their we
+run the risk of excluding people.
+
+59
+00:03:37.470 --> 00:03:41.650
+Accessibility is all about
+including and just building
+some of those systems
+
+60
+00:03:41.650 --> 00:03:47.080
+and tools, helping you understand
+the best practices and how to
+deliver on accessibility.
+
+61
+00:03:48.940 --> 00:03:54.120
+I'm going to switch over
+to my sample document
+that I created today.
+
+62
+00:03:54.970 --> 00:03:56.130
+Change my office theme.
+
+63
+00:04:00.380 --> 00:04:03.430
+So I've created this document
+on the Amazon Rainforest.
+
+64
+00:04:04.410 --> 00:04:06.890
+Just to give you an idea
+of what's in here, there's
+
+65
+00:04:06.890 --> 00:04:11.890
+a table that has some information
+about what percentage of the
+Amazon Rainforest is
+
+66
+00:04:11.890 --> 00:04:16.230
+in each South American country,
+some information on deforestation,
+
+67
+00:04:16.230 --> 00:04:20.310
+a few images, some content
+
+68
+00:04:20.310 --> 00:04:23.660
+on why all this matters and what
+folks can do to get involved.
+
+69
+00:04:25.430 --> 00:04:27.540
+Then I have my bibliography
+down at the very end.
+
+70
+00:04:28.000 --> 00:04:31.430
+So let's just do an overview
+of what's in the document.
+
+71
+00:04:33.210 --> 00:04:36.380
+So I mentioned the
+accessibility checker.
+
+72
+00:04:36.950 --> 00:04:41.000
+That's a feature in
+Office that basically runs
+
+73
+00:04:41.900 --> 00:04:46.670
+a set of automated checks
+against your content and
+returns several results.
+
+74
+00:04:46.670 --> 00:04:48.100
+There's a few
+ways to find this.
+
+75
+00:04:49.370 --> 00:04:51.090
+If you've used it
+for a long time,
+
+76
+00:04:51.090 --> 00:04:56.370
+you may know that it's in
+File, Info, Check for Issues,
+then Check Accessibility.
+
+77
+00:04:57.520 --> 00:05:00.510
+But since it was introduced
+there, it's now
+
+78
+00:05:00.510 --> 00:05:03.050
+a lot more discoverable in
+a couple of other spots too.
+
+79
+00:05:05.180 --> 00:05:09.830
+So now in the Review tab,
+there is just a button there
+for Check Accessibility.
+
+80
+00:05:11.380 --> 00:05:13.630
+That's another way to
+get to it so, again,
+
+81
+00:05:13.630 --> 00:05:15.820
+it's all about just making
+it even more discoverable.
+
+82
+00:05:17.830 --> 00:05:21.950
+In the next area I want to
+show, down in
+
+83
+00:05:21.950 --> 00:05:24.290
+the status bar, which is the
+lower left corner of the window.
+
+84
+00:05:24.290 --> 00:05:29.070
+It has things like page numbers,
+word count, etc., you may notice
+
+85
+00:05:29.070 --> 00:05:31.940
+that there's an item
+that says accessibility
+recommendations found.
+
+86
+00:05:33.080 --> 00:05:34.240
+Check here to investigate.
+
+87
+00:05:35.930 --> 00:05:39.200
+Now that's even maybe
+even more discoverable, so
+
+88
+00:05:39.200 --> 00:05:42.830
+as I add content,
+the status of that little icon
+
+89
+00:05:42.830 --> 00:05:47.440
+will change, and I can just
+activate it right away to open
+the accessibility checker.
+
+90
+00:05:47.440 --> 00:05:48.490
+So let's go ahead and do that.
+
+91
+00:05:52.680 --> 00:05:53.680
+Cool.
+
+92
+00:05:54.410 --> 00:06:00.600
+We now have our accessibility
+checker results organized in
+a few different ways.
+
+93
+00:06:01.480 --> 00:06:06.990
+You'll notice that there's
+errors, things that the
+tool is able to tell.
+
+94
+00:06:06.990 --> 00:06:09.250
+There are definitely issues
+and things we should fix.
+
+95
+00:06:12.960 --> 00:06:16.450
+And then there's some
+warnings, there are some other
+best practices and then, as
+
+96
+00:06:16.450 --> 00:06:18.620
+I work through this, we'll
+see a couple other categories
+
+97
+00:06:18.620 --> 00:06:20.660
+of issues come up as we
+work through these items.
+
+98
+00:06:23.770 --> 00:06:28.200
+So first I did want to
+start and talk a little
+bit about text contrast.
+
+99
+00:06:29.340 --> 00:06:35.080
+So you may notice in this
+deforestation section here,
+I have some text that
+
+100
+00:06:35.080 --> 00:06:39.540
+I have intentionally made that
+very hard to read, just as kind
+of an exaggerated example.
+
+101
+00:06:40.600 --> 00:06:45.170
+But I have some text here
+that's black text with a
+dark blue highlight.
+
+102
+00:06:45.630 --> 00:06:46.630
+So it's pretty hard to read.
+
+103
+00:06:47.320 --> 00:06:50.210
+And the tool flags that as
+having a color contrast issue.
+
+104
+00:06:52.090 --> 00:06:56.720
+Now, this is an exaggerated
+example, but I do often see
+in lots of documents
+
+105
+00:06:56.720 --> 00:07:03.810
+and content that authors use
+text color and highlights
+that are really similar and
+
+106
+00:07:03.810 --> 00:07:05.470
+so, for a user that's
+maybe low vision,
+
+107
+00:07:06.040 --> 00:07:10.220
+it's a lot more difficult to
+differentiate that text from
+
+108
+00:07:10.220 --> 00:07:12.620
+the background,
+and in this example,
+
+109
+00:07:12.620 --> 00:07:15.050
+it's just very difficult for
+everyone because it's such a -
+
+110
+00:07:16.250 --> 00:07:17.590
+there's not very
+much contrast there.
+
+111
+00:07:19.480 --> 00:07:22.780
+So the accessibility checker
+now let's you fix these things
+
+112
+00:07:22.780 --> 00:07:23.780
+inline.
+
+113
+00:07:24.250 --> 00:07:28.930
+Let's go ahead and expand each of
+these and see what we can do so.
+
+114
+00:07:29.410 --> 00:07:31.480
+It selects the text for me.
+
+115
+00:07:32.380 --> 00:07:35.020
+You may notice that there's a
+drop down in that list as well.
+
+116
+00:07:36.360 --> 00:07:37.860
+So if I select the drop
+down, that gives
+
+117
+00:07:37.860 --> 00:07:40.040
+me the recommended actions
+I can take just right away.
+
+118
+00:07:42.530 --> 00:07:47.440
+So I can change the font
+color or I can change my
+text highlight color.
+
+119
+00:07:48.740 --> 00:07:54.160
+In this case, the usual intent
+of a highlight is just giving
+the text highlight color.
+
+120
+00:07:56.000 --> 00:08:01.730
+So let's go ahead and change the
+highlight from black to yellow.
+
+121
+00:08:01.730 --> 00:08:04.430
+That's pretty common.
+
+122
+00:08:04.430 --> 00:08:07.600
+As I change that, you'll
+notice the error is now
+cleared out of the list.
+
+123
+00:08:08.680 --> 00:08:09.990
+So that's one down.
+
+124
+00:08:14.330 --> 00:08:20.330
+As I talk about this, I'll also
+reference some of the best
+practices I mentioned earlier.
+
+125
+00:08:22.020 --> 00:08:25.290
+One of the things that's
+really common, in emails
+especially, so this
+
+126
+00:08:25.290 --> 00:08:27.600
+is where I'll get into Outlook
+and other apps a little bit.
+
+127
+00:08:30.650 --> 00:08:37.670
+When you highlight some
+text, it's often good to
+indicate that information
+
+128
+00:08:37.670 --> 00:08:39.460
+with more than just
+the color alone.
+
+129
+00:08:40.520 --> 00:08:45.220
+So in accessibility, that's
+generally referred to using color
+alone to convey information.
+
+130
+00:08:46.200 --> 00:08:48.730
+And so, oftentimes,
+when you're highlighting something
+
+131
+00:08:48.730 --> 00:08:55.390
+or putting comments inline
+and you're using things
+like see in line, and
+
+132
+00:08:55.390 --> 00:09:00.910
+if you're using only colors,
+only highlights to indicate
+it can get a little bit lost.
+
+133
+00:09:01.920 --> 00:09:07.550
+So if you want to make sure that
+people see this, select the text,
+
+134
+00:09:07.550 --> 00:09:09.840
+or the other option is
+to use underline here.
+
+135
+00:09:09.840 --> 00:09:13.050
+I have a cat in my fact today.
+
+136
+00:09:15.010 --> 00:09:18.500
+Using an underline is just another
+way to add some extra context
+
+137
+00:09:18.840 --> 00:09:21.950
+on how to differentiate
+this information.
+
+138
+00:09:23.480 --> 00:09:29.190
+One other option is if you're
+using lots of in-line comments
+and emails, in addition
+
+139
+00:09:29.190 --> 00:09:35.410
+to using the color, using your
+initials or the date is another
+good way to indicate it.
+
+140
+00:09:35.410 --> 00:09:36.780
+I'll just give you an example.
+
+141
+00:09:41.690 --> 00:09:47.920
+Let's say I decided to do
+that, where I put
+
+142
+00:09:47.920 --> 00:09:51.420
+my name, my initials, and the
+date to indicate my comment.
+
+143
+00:09:51.860 --> 00:09:56.760
+So now I'm conveying that I
+want to call attention to that
+item in more than just color.
+
+144
+00:09:58.040 --> 00:10:03.190
+So those are always good
+things to keep in mind.
+
+145
+00:10:03.190 --> 00:10:10.000
+Moving along here, I
+mentioned that this document
+has a couple images, and
+
+146
+00:10:11.580 --> 00:10:16.850
+so under my deforestation
+heading and right before
+the Why It Matters section,
+
+147
+00:10:17.550 --> 00:10:20.520
+I have a photo that
+I put in here that's
+
+148
+00:10:21.000 --> 00:10:25.040
+a waterfall falling off
+of a cliff and it's kind
+of surrounded by jungle.
+
+149
+00:10:27.300 --> 00:10:32.380
+And so when we're thinking about
+images, generally, there's a
+couple different types.
+
+150
+00:10:33.100 --> 00:10:35.930
+There's things that we're really
+intending to convey content.
+
+151
+00:10:37.660 --> 00:10:40.690
+In this case, our subject matter
+is all about the Amazon Rainforest
+
+152
+00:10:40.690 --> 00:10:44.160
+and so, maybe this sort
+of photo of something
+
+153
+00:10:44.160 --> 00:10:47.600
+in the jungle is a very
+indicative of that environment
+
+154
+00:10:47.600 --> 00:10:49.030
+and so maybe I'd want
+to keep that here.
+
+155
+00:10:51.220 --> 00:10:56.490
+When we're thinking about
+images, it's important that
+people be able to consume those.
+
+156
+00:10:57.550 --> 00:11:02.840
+And so oftentimes we
+refer to what's called
+"alternative text" for images.
+
+157
+00:11:03.700 --> 00:11:07.650
+And that's just really -- let's
+show you what that looks like.
+
+158
+00:11:08.330 --> 00:11:10.750
+So when I select one
+of these errors -
+
+159
+00:11:12.710 --> 00:11:14.550
+when my cat gets out
+of the way here -
+
+160
+00:11:19.150 --> 00:11:21.010
+let's select one
+of the errors here.
+
+161
+00:11:22.860 --> 00:11:26.100
+Picture 1,
+it says missing alternative text.
+
+162
+00:11:26.100 --> 00:11:32.520
+Alternative text is basically a
+description of the image that
+captures the key take away.
+
+163
+00:11:33.470 --> 00:11:36.010
+And so for someone who is blind
+or low vision, or is using
+
+164
+00:11:36.010 --> 00:11:40.540
+an assistive technology,
+that technology would
+read out the description
+
+165
+00:11:40.540 --> 00:11:42.890
+of the image when
+they encounter it.
+
+166
+00:11:42.890 --> 00:11:47.670
+Similar to how a sighted
+user might glance through
+the email, see the image,
+
+167
+00:11:47.670 --> 00:11:49.570
+and get the take away
+of what the image
+
+168
+00:11:49.570 --> 00:11:55.350
+is conveying, all text is a way
+of conveying that to people
+with disabilities as well.
+
+169
+00:11:57.200 --> 00:11:58.860
+So there's a couple
+things we can do here.
+
+170
+00:12:00.790 --> 00:12:03.960
+So I'll just expand this
+drop down and we can take
+
+171
+00:12:03.960 --> 00:12:05.530
+a look at some of the
+options that are available.
+
+172
+00:12:06.530 --> 00:12:08.810
+So we can either have our
+own description, where
+
+173
+00:12:08.810 --> 00:12:11.280
+we can type it out,
+we can mark it as decorative.
+
+174
+00:12:12.130 --> 00:12:13.790
+I'll talk about
+that in a minute.
+
+175
+00:12:14.490 --> 00:12:17.060
+And then there's these other
+two options, one of them
+
+176
+00:12:17.060 --> 00:12:19.800
+is Learn more and Suggest
+a description for me.
+
+177
+00:12:21.090 --> 00:12:23.340
+This is a cool new feature
+that sends the image to
+
+178
+00:12:23.340 --> 00:12:28.700
+the computer vision service
+that does its best guess of
+describing what the image is.
+
+179
+00:12:30.180 --> 00:12:31.560
+This is a great
+starting point.
+
+180
+00:12:32.380 --> 00:12:35.500
+Oftentimes, these do
+pretty well at capturing
+the intent of the image.
+
+181
+00:12:36.420 --> 00:12:37.510
+So let's give that a try.
+
+182
+00:12:37.510 --> 00:12:44.980
+So I'm going to tell it to
+Suggest a description here.
+
+183
+00:12:45.490 --> 00:12:50.190
+So a couple things happened, in
+my accessibility checker results,
+
+184
+00:12:50.190 --> 00:12:54.840
+under Errors, I have one fewer
+error on Missing alternative text.
+
+185
+00:12:55.610 --> 00:13:00.500
+Then I have this new category of
+Intelligent Services, and it tells
+
+186
+00:13:00.500 --> 00:13:03.830
+me that there's some Suggested
+alt text in my document.
+
+187
+00:13:04.300 --> 00:13:06.000
+The reason it tells
+us this is just as
+
+188
+00:13:06.000 --> 00:13:09.940
+an extra step to validate that
+description is really correct.
+
+189
+00:13:11.130 --> 00:13:12.360
+So let's go ahead
+and check that.
+
+190
+00:13:12.360 --> 00:13:13.690
+So Verify description.
+
+191
+00:13:15.950 --> 00:13:19.080
+It says,
+"A large waterfall in a forest."
+
+192
+00:13:20.520 --> 00:13:23.410
+You'll notice that it
+says, "Description
+automatically generated."
+
+193
+00:13:23.410 --> 00:13:26.320
+Again, just indicating that
+this was generated online.
+
+194
+00:13:27.920 --> 00:13:31.520
+Given my subject matter
+here, talking about the
+Amazon Rainforest, maybe
+
+195
+00:13:31.520 --> 00:13:33.150
+we should make this a
+little more specific.
+
+196
+00:13:35.500 --> 00:13:41.750
+A large waterfall falling
+off a cliff in a jungle.
+
+197
+00:13:42.960 --> 00:13:46.600
+And so I've added just a
+little more context for someone
+
+198
+00:13:46.600 --> 00:13:48.820
+to really see why I
+had this specific image
+
+199
+00:13:48.820 --> 00:13:54.440
+in here as opposed to the
+description it suggested was
+a waterfall in a forest.
+
+200
+00:13:55.750 --> 00:13:58.830
+That could kind of be
+anywhere, and
+
+201
+00:13:58.830 --> 00:14:02.310
+so someone who is using
+assistive technology is consuming
+
+202
+00:14:02.310 --> 00:14:07.100
+this document, they may
+be confused about why
+exactly that's in there.
+
+203
+00:14:09.030 --> 00:14:11.910
+So that extra layer of
+specificity helps here.
+
+204
+00:14:13.930 --> 00:14:17.020
+Just for fun, there is an
+option here, Donate your picture
+
+205
+00:14:17.020 --> 00:14:21.340
+for science and it helps
+kind of train the image
+recognition models.
+
+206
+00:14:22.290 --> 00:14:26.110
+So I can say, yes,
+and that will upload my image.
+
+207
+00:14:28.390 --> 00:14:32.200
+And the confirmation it says here
+is, "Your contribution will make
+
+208
+00:14:32.200 --> 00:14:35.630
+it easier for us to
+describe images for blind
+or low-vision users."
+
+209
+00:14:39.380 --> 00:14:42.110
+There's one more
+image in our document.
+
+210
+00:14:42.110 --> 00:14:43.320
+So let's take a look at that.
+
+211
+00:14:45.560 --> 00:14:47.680
+So this case,
+I have this section on here
+
+212
+00:14:47.680 --> 00:14:52.390
+are some ways to get
+involved, and there's five
+different options here.
+
+213
+00:14:54.510 --> 00:14:56.230
+There's this image here.
+
+214
+00:14:56.230 --> 00:15:00.660
+So my last bullet point is
+"Donate to the World Wildlife
+Fund," and then right below
+
+215
+00:15:00.660 --> 00:15:03.480
+that, I have an image of the
+World Wildlife Fund logo.
+
+216
+00:15:06.220 --> 00:15:09.760
+So now we're getting into
+some of the nuance of images.
+
+217
+00:15:11.140 --> 00:15:13.420
+So because I've
+just called out
+
+218
+00:15:13.420 --> 00:15:18.600
+the World Wildlife Fund,
+this image, one could
+argue, isn't adding
+
+219
+00:15:18.600 --> 00:15:22.090
+any informative content
+because the content that
+
+220
+00:15:22.090 --> 00:15:23.730
+it's adding is kind of
+covered right above it.
+
+221
+00:15:26.050 --> 00:15:30.310
+One option is we could mark
+the alternative text just a
+World Wildlife Fund logo.
+
+222
+00:15:32.210 --> 00:15:33.610
+When we think about
+the experience
+
+223
+00:15:33.610 --> 00:15:36.640
+of someone who is using
+an assistive technology,
+they might hear
+
+224
+00:15:36.640 --> 00:15:40.090
+out bullet number five, "Donate
+to the World Wildlife Fund,"
+
+225
+00:15:40.590 --> 00:15:42.930
+and the next thing you hear
+is "World Wildlife Fund logo."
+
+226
+00:15:43.950 --> 00:15:46.640
+Maybe that's just not the most
+useful piece of information here.
+
+227
+00:15:47.420 --> 00:15:51.020
+So that's the other option
+in the recommended actions
+drop down I covered.
+
+228
+00:15:51.820 --> 00:15:54.550
+Mark as decorative,
+so let's do that, and that
+
+229
+00:15:54.550 --> 00:15:58.770
+will just basically treat
+it as an invisible object.
+
+230
+00:15:59.280 --> 00:16:00.810
+It's not conveying content -
+
+231
+00:16:02.340 --> 00:16:07.680
+just to avoid giving
+someone too much redundant
+information, so let's mark
+
+232
+00:16:07.680 --> 00:16:08.680
+it as decorative.
+
+233
+00:16:10.290 --> 00:16:14.960
+And, great, now our images and
+all text are gone from this list.
+
+234
+00:16:16.490 --> 00:16:20.400
+While we're on the subject
+of images, there's one more
+thing that's calling out here.
+
+235
+00:16:20.950 --> 00:16:23.600
+Images or objects not
+inline.
+
+236
+00:16:24.100 --> 00:16:26.070
+Let's take a look at that and
+see what that's pointing to.
+
+237
+00:16:27.090 --> 00:16:31.200
+That takes us back to
+our first image, and in
+
+238
+00:16:31.200 --> 00:16:36.250
+the Accessibility checker,
+again, it gives us kind of this
+Why Fix? and Steps to Fix.
+
+239
+00:16:37.340 --> 00:16:39.570
+It's saying that if
+the image or object
+
+240
+00:16:39.570 --> 00:16:42.180
+is not inline, it may be
+difficult for a screen reader
+
+241
+00:16:42.180 --> 00:16:44.900
+or assisted technology users
+to find it in your document
+
+242
+00:16:48.020 --> 00:16:51.320
+and can make it a little
+harder to interact with.
+
+243
+00:16:51.700 --> 00:16:55.310
+Usually, the easiest fix
+here is to always use the
+inline text wrapping.
+
+244
+00:16:56.460 --> 00:17:00.790
+The image I just opened the
+Layout options, I can also go
+
+245
+00:17:00.790 --> 00:17:05.370
+to the Picture Format tab
+of the ribbon and choose my
+text wrapping options there.
+
+246
+00:17:06.760 --> 00:17:08.790
+Let's mark it as
+In Line with text.
+
+247
+00:17:11.640 --> 00:17:12.990
+That's one more error down.
+
+248
+00:17:13.940 --> 00:17:20.090
+While we're still talking about
+that, I do want to mention
+another tidbit of information.
+
+249
+00:17:21.670 --> 00:17:26.250
+While in line is the generally
+recommended and better option
+
+250
+00:17:26.250 --> 00:17:28.070
+for accessibility, there may
+
+251
+00:17:28.070 --> 00:17:32.360
+be scenarios where another
+text wrapping option does
+suit your document better.
+
+252
+00:17:33.150 --> 00:17:36.100
+Maybe if there's columns
+or things like that.
+
+253
+00:17:37.490 --> 00:17:42.150
+If that's the case, some
+of these other text
+wrapping options can work
+
+254
+00:17:43.110 --> 00:17:45.280
+as long as there's a couple
+other steps you take.
+
+255
+00:17:45.650 --> 00:17:48.550
+So let's do square text
+wrapping, for example.
+
+256
+00:17:50.840 --> 00:17:54.900
+Some of these other text
+wrapping options just give us
+
+257
+00:17:54.900 --> 00:17:57.330
+a little bit more flexibility
+in how that image is placed.
+
+258
+00:17:59.690 --> 00:18:02.970
+So we have that error
+again about the image or
+object not being inline.
+
+259
+00:18:03.710 --> 00:18:06.240
+You may notice that
+there's an anchor icon
+
+260
+00:18:06.240 --> 00:18:09.470
+in the left margin of my
+document alongside the image.
+
+261
+00:18:10.760 --> 00:18:13.079
+That's a solution
+that can improve the
+
+262
+00:18:13.080 --> 00:18:16.290
+accessibility of these
+other text wrapping options.
+
+263
+00:18:16.960 --> 00:18:21.040
+The anchor basically indicates
+where in your document the
+image should be read,
+
+264
+00:18:21.810 --> 00:18:24.255
+and that way it does
+get discovered by
+
+265
+00:18:24.256 --> 00:18:27.390
+assistive technology so
+the user would find it.
+
+266
+00:18:28.240 --> 00:18:31.630
+And I can basically click and drag
+that anchor to wherever I want it.
+
+267
+00:18:33.420 --> 00:18:38.810
+So maybe I wanted this image
+to be talking about why the
+Amazon Rainforest matters,
+
+268
+00:18:39.650 --> 00:18:42.190
+so I can drag it down now,
+
+269
+00:18:42.190 --> 00:18:46.690
+and now that means the
+image will be read out to
+
+270
+00:18:46.690 --> 00:18:50.450
+a user right around the
+same time they are reading
+all that information.
+
+271
+00:18:52.390 --> 00:18:56.600
+That said, the in-line text
+wrapping is the best option.
+
+272
+00:18:57.150 --> 00:18:58.790
+So we'd recommend that
+wherever possible.
+
+273
+00:19:02.380 --> 00:19:03.816
+So one more down.
+
+274
+00:19:04.350 --> 00:19:06.600
+We have one more error
+and one more warning here.
+
+275
+00:19:07.500 --> 00:19:10.160
+Our error looks like it's in
+the table that's up above.
+
+276
+00:19:12.550 --> 00:19:15.430
+I have included this
+table that is basically
+
+277
+00:19:15.430 --> 00:19:20.020
+a percentage of the Amazon
+Rainforest contained in
+South American countries.
+
+278
+00:19:20.020 --> 00:19:28.060
+Brazil has almost 60%;
+Columbia about 7%; Argentina
+and Chile have 0%.
+
+279
+00:19:28.060 --> 00:19:30.620
+So they don't have any
+of the Amazon Rainforest
+in their borders.
+
+280
+00:19:33.750 --> 00:19:38.480
+This error is calling out that my
+table doesn't have a header row.
+
+281
+00:19:38.480 --> 00:19:39.780
+It looks like it does.
+
+282
+00:19:39.780 --> 00:19:43.010
+I have my country header
+and my percentage of
+Amazon Rainforest header.
+
+283
+00:19:44.270 --> 00:19:45.620
+But it's not quite there.
+
+284
+00:19:47.100 --> 00:19:50.270
+This error is referring to the
+kind of semantic structure of it.
+
+285
+00:19:51.610 --> 00:19:55.910
+And so in assistive technology,
+basically, looks at the markup
+
+286
+00:19:55.910 --> 00:19:59.760
+or the semantic structure
+of the table to convey
+certain relationships,
+
+287
+00:20:00.660 --> 00:20:03.210
+such that if a user is
+moving between columns,
+
+288
+00:20:03.650 --> 00:20:06.510
+they would get the appropriate
+row or column header read out.
+
+289
+00:20:08.150 --> 00:20:10.700
+It's always good to add
+a header row to a table.
+
+290
+00:20:11.250 --> 00:20:13.790
+Let's go ahead and do that.
+
+291
+00:20:13.790 --> 00:20:15.410
+I will select my table.
+
+292
+00:20:16.450 --> 00:20:20.600
+I can either mark it as a
+lay out table that's
+intended to lay out content.
+
+293
+00:20:22.071 --> 00:20:24.920
+I think that's fairly
+a new feature actually.
+
+294
+00:20:25.530 --> 00:20:28.440
+The main option is Use
+first row as header.
+
+295
+00:20:29.070 --> 00:20:32.190
+In a down [phonetic]
+table, that's usually the
+most common approach that
+
+296
+00:20:32.190 --> 00:20:34.320
+the column headers are
+at the very first row,
+
+297
+00:20:35.000 --> 00:20:40.120
+and so we can just make
+that change in line.
+
+298
+00:20:40.120 --> 00:20:44.970
+There's no visual change to
+that, but it does make the mark
+
+299
+00:20:44.970 --> 00:20:49.360
+up just a little more clear
+for someone using assistive
+technology to read through it.
+
+300
+00:20:49.360 --> 00:20:58.320
+I can also do that manually
+in the table design tab of
+
+301
+00:20:58.320 --> 00:21:01.480
+the ribbon when I have the
+table selected, I'd be able
+
+302
+00:21:01.480 --> 00:21:05.640
+to select that first row and
+check Header Row here and any
+
+303
+00:21:05.640 --> 00:21:10.310
+other information I'd like
+to convey in that table, I
+can check appropriately.
+
+304
+00:21:11.490 --> 00:21:14.640
+The critical one's just
+making sure you have
+that header row marked.
+
+305
+00:21:17.200 --> 00:21:21.860
+Now we have a warning
+here about merged or
+split cells in the table.
+
+306
+00:21:26.290 --> 00:21:33.360
+I made a couple edits to
+this table when I was
+building it that intended
+
+307
+00:21:34.030 --> 00:21:37.000
+to make it a little bit
+easier to consume, but
+
+308
+00:21:37.000 --> 00:21:39.780
+it does make the table
+structure slightly more complex.
+
+309
+00:21:40.390 --> 00:21:46.400
+And why that's problematic
+is when someone's using
+assistive technology,
+
+310
+00:21:46.910 --> 00:21:48.670
+they would be navigating up
+
+311
+00:21:48.670 --> 00:21:51.260
+or down in the column and
+then bouncing between columns.
+
+312
+00:21:53.130 --> 00:21:59.210
+So let's say I've gone through
+the first five rows of the
+table and the format is, okay,
+
+313
+00:21:59.210 --> 00:22:05.570
+I get my country, and then to
+the right of it, I get the
+percentage, country, percentage;
+
+314
+00:22:08.420 --> 00:22:11.670
+I get down here,
+I'm on Guyana, and then
+
+315
+00:22:11.670 --> 00:22:13.370
+I move over to the next cell
+and then I get French Guyana.
+
+316
+00:22:14.330 --> 00:22:18.500
+That's a little confusing
+because someone was expecting
+to get a percentage there
+
+317
+00:22:18.500 --> 00:22:20.720
+and might be wondering why that
+structure's a little bit funky.
+
+318
+00:22:23.210 --> 00:22:26.070
+Let's go ahead
+and change that.
+
+319
+00:22:26.720 --> 00:22:31.230
+I intentionally grouped
+these on the same line, but
+let's separate them out.
+
+320
+00:22:41.440 --> 00:22:48.580
+So I'm just getting rid of the
+-- fixing [phonetic] those.
+
+321
+00:22:51.140 --> 00:23:12.220
+I've added my second row;
+I'm going to use the Merge
+column feature, great.
+
+322
+00:23:12.220 --> 00:23:13.130
+As I worked through
+that, you may
+
+323
+00:23:13.130 --> 00:23:17.500
+have noticed that in the
+accessibility checker those
+errors slowly went away.
+
+324
+00:23:21.290 --> 00:23:27.180
+So great, so that's one more
+error down, and then it's
+telling us that this cell has 0%
+
+325
+00:23:27.650 --> 00:23:31.830
+in it, is another merged
+cell which can impact
+
+326
+00:23:31.830 --> 00:23:33.620
+the experience for
+someone with a disability.
+
+327
+00:23:34.460 --> 00:23:40.380
+So they recommend just
+having unique lines for
+each row in the table.
+
+328
+00:23:41.410 --> 00:23:48.920
+Let's go ahead and split that
+cell, let's turn it into two rows.
+
+329
+00:23:52.900 --> 00:23:56.350
+Now I've added my 0% in
+Argentina as well as Chile now.
+
+330
+00:23:58.560 --> 00:23:59.110
+Cool.
+
+331
+00:23:59.110 --> 00:24:00.860
+And you may now notice back
+
+332
+00:24:00.860 --> 00:24:04.490
+in the accessibility
+checker, it says no
+accessibility issues found.
+
+333
+00:24:05.050 --> 00:24:07.540
+People shouldn't have issues
+reading this document.
+
+334
+00:24:09.580 --> 00:24:12.000
+While we're on the subject,
+
+335
+00:24:12.000 --> 00:24:17.890
+I wanted to briefly touch on
+another best practice, another
+couple best practices in here.
+
+336
+00:24:19.690 --> 00:24:22.860
+Back to my agenda slide,
+there's one on heading structure.
+
+337
+00:24:23.400 --> 00:24:28.180
+I did already cover
+conveying information by
+color alone, but let's take
+
+338
+00:24:28.180 --> 00:24:29.190
+a look at hyperlinks,
+
+339
+00:24:29.190 --> 00:24:31.300
+and then we'll do a couple
+things in PowerPoint.
+
+340
+00:24:34.270 --> 00:24:38.520
+So in this document,
+I have some links here.
+
+341
+00:24:39.060 --> 00:24:42.480
+I have this one that says
+"click here," and under
+
+342
+00:24:42.480 --> 00:24:45.530
+my Deforestation heading,
+I have another link that
+says "click here."
+
+343
+00:24:47.650 --> 00:24:51.690
+Using assistive technology,
+the user may get confused by that.
+
+344
+00:24:52.290 --> 00:24:58.270
+The way a link would be read
+like that is it would just
+read, "link, click here."
+
+345
+00:24:59.060 --> 00:25:03.520
+And so it would read "link, click
+here" and then "link, click here."
+
+346
+00:25:04.890 --> 00:25:13.520
+So it's difficult for a
+user to differentiate what
+those links are pointing to.
+
+347
+00:25:13.520 --> 00:25:15.980
+Let's give them a little
+bit more descriptive name.
+
+348
+00:25:19.140 --> 00:25:23.890
+I think my hyperlink went to
+Wikipedia, let me just copy that.
+
+349
+00:25:25.010 --> 00:25:28.540
+Let me craft a new sentence
+and we can try it out, and
+I can get rid of that one.
+
+350
+00:25:40.250 --> 00:25:45.040
+So now I made a new sentence
+that reads "Check out
+
+351
+00:25:45.040 --> 00:25:48.810
+the link Wikipedia article on the
+Amazon Rainforest to learn more."
+
+352
+00:25:49.620 --> 00:25:51.150
+So I said the word
+"link" in there just
+
+353
+00:25:51.150 --> 00:25:53.270
+to indicate how an assistive
+technology would read it.
+
+354
+00:25:54.160 --> 00:25:59.190
+So when we use that kind
+of descriptive link,
+that's very clear.
+
+355
+00:25:59.620 --> 00:26:04.040
+A user knows right away where
+it's supposed to take them
+and doesn't have to guess.
+
+356
+00:26:04.040 --> 00:26:06.360
+So let's go ahead and remove
+that previous sentence.
+
+357
+00:26:07.520 --> 00:26:08.520
+That's better.
+
+358
+00:26:12.230 --> 00:26:16.130
+Let me again cut the
+hyperlink, and let's do
+the same thing down here -
+
+359
+00:26:16.130 --> 00:26:18.180
+this is my section
+on deforestation.
+
+360
+00:26:40.210 --> 00:26:45.170
+Now I added, "Visit this
+page for link more
+statistics on deforestation.
+
+361
+00:26:47.460 --> 00:26:49.860
+Not only are the links
+themselves more descriptive
+
+362
+00:26:49.860 --> 00:26:51.360
+and the user knows where
+they are going to go.
+
+363
+00:26:52.680 --> 00:26:56.840
+If someone's navigating
+link to link, they now
+know which is which.
+
+364
+00:26:57.410 --> 00:27:01.910
+So that's the other
+important factor there.
+
+365
+00:27:01.910 --> 00:27:04.430
+So next I mentioned I was
+going to cover headings.
+
+366
+00:27:05.310 --> 00:27:09.260
+And so, in this document,
+it's broken out into sections.
+
+367
+00:27:09.260 --> 00:27:13.550
+So the very beginning, I
+have a document title "The
+Amazon Rainforest," I have
+
+368
+00:27:13.550 --> 00:27:19.080
+a heading for "Deforestation,"
+"Why it Matters," and "So,
+what can you do?"
+
+369
+00:27:21.780 --> 00:27:25.260
+But for those of you who
+are Word power users,
+
+370
+00:27:25.260 --> 00:27:30.390
+you may know that when you
+add true heading styles from
+
+371
+00:27:30.390 --> 00:27:35.610
+the style section of the
+ribbon, they can look
+
+372
+00:27:35.610 --> 00:27:38.280
+a certain way, but they also get
+added to the Navigation pane.
+
+373
+00:27:39.150 --> 00:27:43.110
+So you may notice that I have
+one item in the navigation
+pane, a Bibliography.
+
+374
+00:27:43.840 --> 00:27:50.790
+When I select that in styles
+tab of the ribbon, it's
+using a Heading 1 style.
+
+375
+00:27:50.790 --> 00:27:53.640
+Headings are really
+important for conveying the
+structure of your document.
+
+376
+00:27:55.260 --> 00:27:59.900
+Let's go ahead and add some
+headings to the document -
+
+377
+00:27:59.900 --> 00:28:04.520
+add some heading styles,
+because I already have where
+my section headers are.
+
+378
+00:28:05.710 --> 00:28:09.300
+So with this first one,
+"The Amazon Rainforest," we select
+
+379
+00:28:09.300 --> 00:28:12.920
+that, I'll mark that
+as a heading level 1.
+
+380
+00:28:13.440 --> 00:28:16.850
+It now shows up in the
+navigation pane, it adds
+
+381
+00:28:16.850 --> 00:28:20.800
+some other heading
+features, such as being
+able to expand or collapse.
+
+382
+00:28:20.800 --> 00:28:27.880
+And then so the way
+headings work is -
+
+383
+00:28:30.910 --> 00:28:38.320
+Heading 1 indicates the start
+of the content or kind of the
+main area of my content.
+
+384
+00:28:39.220 --> 00:28:41.380
+Heading 1 is always kind
+about the main body.
+
+385
+00:28:42.600 --> 00:28:45.130
+Within that main body,
+I have section headings.
+
+386
+00:28:46.740 --> 00:28:51.480
+So within the body, I would
+make all of my section
+headings a Heading 2.
+
+387
+00:28:52.660 --> 00:28:55.490
+So "Deforestation" and
+Why it Matters" would both
+
+388
+00:28:55.490 --> 00:29:00.190
+be Heading 2 because they're
+subsections of the Heading 1.
+
+389
+00:29:01.230 --> 00:29:03.790
+In this "Why it
+Matters" section -
+
+390
+00:29:04.150 --> 00:29:07.550
+or sorry - I have one more
+here, "So, what can you do?"
+
+391
+00:29:10.190 --> 00:29:12.320
+We also make that a Heading 2.
+
+392
+00:29:12.320 --> 00:29:14.670
+As I do that, these get
+added to the navigation pane.
+
+393
+00:29:17.310 --> 00:29:19.540
+I have one more here --
+"Here are some ideas."
+
+394
+00:29:20.730 --> 00:29:28.350
+So in the Heading 2 of "So,
+what you can do," there's a
+section of some specific ideas.
+
+395
+00:29:28.820 --> 00:29:33.130
+So I would say that's a subsection
+of "So, what can you do?"
+
+396
+00:29:33.830 --> 00:29:37.620
+Let me mark that
+as a Heading 3.
+
+397
+00:29:37.620 --> 00:29:40.850
+You kind of see my
+heading structure get
+built out a little bit.
+
+398
+00:29:43.810 --> 00:29:45.786
+For someone who is using
+assistive technology,
+
+399
+00:29:45.787 --> 00:29:47.720
+they are able to navigate
+just by headings.
+
+400
+00:29:48.340 --> 00:29:50.810
+So using a clean heading
+structure like this, that
+
+401
+00:29:50.810 --> 00:29:53.820
+is indicating the layout
+of the content, gives them
+
+402
+00:29:53.820 --> 00:29:57.400
+some idea of how best
+they can most efficiently
+read through my content.
+
+403
+00:30:02.220 --> 00:30:06.050
+And it's always a good practice
+to only have one Heading 1.
+
+404
+00:30:06.050 --> 00:30:07.310
+There's a couple
+exceptions to that.
+
+405
+00:30:08.080 --> 00:30:10.510
+In this document, for example,
+that makes the most sense.
+
+406
+00:30:11.190 --> 00:30:14.950
+So let's select our Bibliography
+and mark it a Heading 2.
+
+407
+00:30:14.950 --> 00:30:19.160
+So now everything in the document
+is a subsection of the main body.
+
+408
+00:30:22.410 --> 00:30:23.790
+I can expand or
+collapse these.
+
+409
+00:30:23.790 --> 00:30:27.740
+So they're a really cool
+way to clean up my -- if I
+have a really long document.
+
+410
+00:30:29.080 --> 00:30:32.390
+You may notice that the
+headings weren't indicated in
+the accessibility checker.
+
+411
+00:30:34.810 --> 00:30:38.440
+Today, I think the only error the
+accessibility checker flags are -
+
+412
+00:30:38.440 --> 00:30:42.890
+I think it's a tip that's just
+kind of a recommendation, is
+
+413
+00:30:42.890 --> 00:30:49.570
+if you have a really long
+document, like over ten pages,
+I'm not sure what the exact rule
+
+414
+00:30:49.570 --> 00:30:52.500
+of thumb is, but when you have
+really long documents, it's going
+
+415
+00:30:52.500 --> 00:30:57.570
+to recommend that you add
+headings to make it easier
+to consume that document.
+
+416
+00:30:59.200 --> 00:31:03.470
+That's one example of
+something that we didn't
+cover but would show
+
+417
+00:31:03.470 --> 00:31:05.660
+up in the accessibility
+checker in some scenarios.
+
+418
+00:31:06.980 --> 00:31:09.560
+Back to my status bar
+in the lower left, we
+
+419
+00:31:09.560 --> 00:31:12.210
+now have this icon that says
+Accessibility Good to go.
+
+420
+00:31:13.130 --> 00:31:14.630
+Now that we've done
+a lot of these -
+
+421
+00:31:15.010 --> 00:31:19.030
+fixed the accessibility
+checker errors and warnings
+and tips and done some
+
+422
+00:31:19.030 --> 00:31:20.660
+of these other best practices,
+
+423
+00:31:20.660 --> 00:31:23.600
+it's telling us that our
+document should be a good
+experience for users.
+
+424
+00:31:24.860 --> 00:31:27.410
+So great, we made some good
+progress on that Word document.
+
+425
+00:31:28.100 --> 00:31:31.190
+Let's switch back
+over to PowerPoint.
+
+426
+00:31:32.520 --> 00:31:35.670
+And so I have this PowerPoint
+open so let me close out of it.
+
+427
+00:31:36.610 --> 00:31:38.730
+There's a couple things
+I want to call out here.
+
+428
+00:31:41.950 --> 00:31:47.150
+A lot of the things that I
+covered in Word pretty much
+apply one to one to Outlook.
+
+429
+00:31:47.810 --> 00:31:51.410
+There's some
+exceptions to that.
+
+430
+00:31:51.770 --> 00:31:57.200
+There's some nuances to the
+format the PowerPoint is that
+makes it a little bit different.
+
+431
+00:31:59.750 --> 00:32:06.500
+As opposed to how the sequence
+in which someone reads a
+document, it is very linear.
+
+432
+00:32:07.590 --> 00:32:13.790
+The document is read top to
+bottom, someone can navigate
+section by section, where
+
+433
+00:32:13.790 --> 00:32:14.730
+at the core of
+it, you don't have
+
+434
+00:32:14.730 --> 00:32:17.610
+to do anything special
+to control the reading
+order other than just put
+
+435
+00:32:17.610 --> 00:32:19.120
+the content in the
+sequence that you want.
+
+436
+00:32:20.950 --> 00:32:22.510
+PowerPoint's a
+little bit different.
+
+437
+00:32:24.750 --> 00:32:30.860
+There is this idea of slide
+reading order in PowerPoint, and
+so let's take a look at that.
+
+438
+00:32:30.860 --> 00:32:35.400
+I'm going to open up the
+accessibility checker in
+PowerPoint, and you can access
+
+439
+00:32:35.400 --> 00:32:38.060
+the same three ways,
+either the review tab, the item
+
+440
+00:32:38.060 --> 00:32:40.890
+in the status bar,
+or under File Info.
+
+441
+00:32:43.070 --> 00:32:45.810
+There are two errors called
+out in this slideshow.
+
+442
+00:32:47.860 --> 00:32:50.390
+So this slide is telling
+me I should check
+
+443
+00:32:50.390 --> 00:32:54.180
+my slide reading order,
+so let's go ahead and try that.
+
+444
+00:32:54.710 --> 00:32:56.230
+Let's verify the object order.
+
+445
+00:33:00.590 --> 00:33:07.540
+So this - the way that this slide
+would be read is picture five
+
+446
+00:33:08.390 --> 00:33:11.110
+and then the alt text
+which is something about
+
+447
+00:33:11.110 --> 00:33:16.280
+a woman with illustrative question
+marks above her to indicate ideas
+
+448
+00:33:17.160 --> 00:33:19.590
+and then a text box
+with the text questions.
+
+449
+00:33:20.440 --> 00:33:24.010
+So this reading order pain
+shows the sequence in which
+someone's going to consume that.
+
+450
+00:33:24.670 --> 00:33:29.520
+This is a pretty simple
+slide, but imagine a
+pretty complex slide where
+
+451
+00:33:29.520 --> 00:33:32.420
+the important information is
+kind of read out of order.
+
+452
+00:33:33.040 --> 00:33:39.570
+In this case, the visual
+order that maybe a sighted
+user would see in this slide,
+
+453
+00:33:40.030 --> 00:33:42.510
+is they would be drawn
+to the text Questions.
+
+454
+00:33:42.900 --> 00:33:46.020
+And then they would see the
+image as a supplemental piece.
+
+455
+00:33:47.940 --> 00:33:52.250
+So by that logic our
+reading order is just a
+little bit backwards here.
+
+456
+00:33:53.570 --> 00:33:58.340
+The text box should be read
+first, and the picture
+should be read second.
+
+457
+00:34:01.470 --> 00:34:07.800
+So we can just click and
+drag that order or can use
+the up and down arrows -
+
+458
+00:34:07.800 --> 00:34:09.200
+buttons to move those.
+
+459
+00:34:11.520 --> 00:34:16.350
+Great, so that changed our
+reading order, and that reading
+order issue got cleared
+
+460
+00:34:16.350 --> 00:34:17.400
+off of the slide because
+
+461
+00:34:17.400 --> 00:34:20.800
+it knows I went in and
+validated the reading order
+that was already there.
+
+462
+00:34:28.640 --> 00:34:31.380
+The next error that it's calling
+out is a missing slide title.
+
+463
+00:34:32.130 --> 00:34:37.900
+That's a really similar
+idea to headings in Word,
+but a little bit different.
+
+464
+00:34:37.900 --> 00:34:40.550
+So in PowerPoint,
+I have seen slide titles here.
+
+465
+00:34:41.190 --> 00:34:43.590
+If I go to my reading order
+pane, I can show you those.
+
+466
+00:34:44.950 --> 00:34:48.150
+This one is title text
+box 1 and then the text
+
+467
+00:34:48.150 --> 00:34:54.800
+on my next slide, Agenda, I have
+a title text box that says Agenda
+
+468
+00:34:54.800 --> 00:35:01.580
+in it, and then my heading here
+is a text box that says Thank You.
+
+469
+00:35:04.610 --> 00:35:08.710
+And so, when someone's
+navigating through the list
+
+470
+00:35:08.710 --> 00:35:12.360
+of slides, the slide title is
+the first thing that's read.
+
+471
+00:35:12.820 --> 00:35:17.240
+So I would hear things like
+slide two agenda, on this slide,
+
+472
+00:35:17.240 --> 00:35:20.040
+it would just say
+slide four because
+
+473
+00:35:21.090 --> 00:35:25.760
+my question slide would just say
+slide four because I haven't
+defined the title text box.
+
+474
+00:35:31.470 --> 00:35:34.990
+Let's go ahead and fix that.
+
+475
+00:35:34.990 --> 00:35:37.760
+In this case, it's just a
+text box that says Questions.
+
+476
+00:35:38.340 --> 00:35:42.570
+So let's switch back to
+the accessibility checker,
+we'll select that object.
+
+477
+00:35:44.140 --> 00:35:48.150
+When I selected it, it switched
+us to outline view, and
+
+478
+00:35:48.150 --> 00:35:50.780
+in outline view,
+under each slide, you get kind
+
+479
+00:35:50.780 --> 00:35:56.500
+of a text on the slide,
+but at the top level,
+you get the slide title.
+
+480
+00:35:58.600 --> 00:36:02.500
+This slide looks blank because
+there's no slide title applied.
+
+481
+00:36:03.770 --> 00:36:07.460
+Again, as someone is reading
+through, they would hear,
+slide one and the slide title;
+
+482
+00:36:07.460 --> 00:36:09.730
+slide two and the slide
+title, and then down
+
+483
+00:36:09.730 --> 00:36:11.920
+on slide four,
+they would just hear slide four.
+
+484
+00:36:12.910 --> 00:36:14.180
+Let's apply a title.
+
+485
+00:36:17.270 --> 00:36:20.980
+It selected the first object
+on my slide and asked me
+
+486
+00:36:20.980 --> 00:36:22.920
+do I want to make
+that a slide title?
+
+487
+00:36:22.920 --> 00:36:27.520
+Do I want to add my own
+slide title or do I want to
+add a hidden slide title?
+
+488
+00:36:28.960 --> 00:36:30.620
+I'll talk about these
+in a little detail.
+
+489
+00:36:31.540 --> 00:36:37.440
+Starting with the bottom
+one, Add a Hidden Slide
+Title, some slides, there's
+
+490
+00:36:37.440 --> 00:36:43.320
+not really a natural title per
+se that would show visually.
+
+491
+00:36:45.200 --> 00:36:53.760
+For example, if there's a page
+with several visualizations or
+things like that or
+
+492
+00:36:53.760 --> 00:36:59.080
+a process diagram, maybe
+we don't want a visual
+title text box because
+
+493
+00:36:59.080 --> 00:37:03.230
+that could distract from
+what we're trying to convey.
+
+494
+00:37:03.780 --> 00:37:08.770
+If I add a hidden slide
+title, it will basically
+just add a text box just off
+
+495
+00:37:08.770 --> 00:37:12.080
+of the slide that won't show,
+but lets me add a slide title.
+
+496
+00:37:13.920 --> 00:37:17.480
+Because it's adding an object, the
+accessibility checker did ask us
+
+497
+00:37:17.480 --> 00:37:18.870
+to validate the
+reading order again.
+
+498
+00:37:19.830 --> 00:37:28.180
+That's one option, again,
+if I type Questions here,
+that covers the slide title.
+
+499
+00:37:28.800 --> 00:37:34.360
+However, even though
+it's appearing
+offscreen, the title that
+
+500
+00:37:34.360 --> 00:37:36.880
+I've now applied would still be
+read by assistive technology.
+
+501
+00:37:37.450 --> 00:37:39.530
+Someone would be getting
+that information twice.
+
+502
+00:37:39.530 --> 00:37:45.120
+So this option is good
+if there's not really a
+logical spot for a title on
+
+503
+00:37:45.120 --> 00:37:49.610
+a slide, but you still want
+to add one because it does
+make it a better experience.
+
+504
+00:37:51.780 --> 00:37:54.380
+The other one is Add a Slide
+Title which, basically, just adds
+
+505
+00:37:54.380 --> 00:38:00.440
+a title text box back to the slide
+layout and lets me add text to it.
+
+506
+00:38:01.030 --> 00:38:03.780
+There's also Set
+as Slide Title.
+
+507
+00:38:04.740 --> 00:38:05.740
+Let's do that.
+
+508
+00:38:06.360 --> 00:38:07.660
+That makes it even easier.
+
+509
+00:38:07.660 --> 00:38:08.690
+I don't have to add anything;
+
+510
+00:38:08.690 --> 00:38:11.920
+I can just select the
+existing text box and
+say make that a title.
+
+511
+00:38:13.610 --> 00:38:17.960
+So now in my outline view,
+my slide title shows up, and
+
+512
+00:38:17.960 --> 00:38:21.280
+so now when someone lands
+on this slide, they would
+hear, slide four, questions.
+
+513
+00:38:22.430 --> 00:38:25.680
+Accessibility checker says
+there's no more issues, and
+
+514
+00:38:25.680 --> 00:38:27.910
+my reading order
+pane is good to go.
+
+515
+00:38:27.910 --> 00:38:30.630
+My title is first,
+and then the image is second.
+
+516
+00:38:34.600 --> 00:38:42.730
+One other thing that I'll
+mention is if I add my
+own slide here, let's say
+
+517
+00:38:42.730 --> 00:38:53.030
+I want to just add a slide
+with Resources and I'm going
+to insert a couple shapes.
+
+518
+00:38:53.860 --> 00:38:56.140
+Just do a really quick
+demonstration here.
+
+519
+00:39:09.380 --> 00:39:11.460
+So I've added just
+some random stuff.
+
+520
+00:39:11.460 --> 00:39:16.300
+I have a header, a slide title,
+an arrow, and another text box.
+
+521
+00:39:17.070 --> 00:39:22.030
+I switch back to my accessibility
+checker; it's telling me I need
+the alt text to that.
+
+522
+00:39:22.030 --> 00:39:23.080
+So let me do that real quick.
+
+523
+00:39:23.600 --> 00:39:25.930
+That I'll mark as
+decorative, that arrow there.
+
+524
+00:39:29.520 --> 00:39:34.350
+Let's say I got rid of my slide
+title text box altogether, and let
+
+525
+00:39:34.350 --> 00:39:38.440
+me add just one
+more text box here.
+
+526
+00:39:44.610 --> 00:39:49.470
+So again, it caused an
+issue with my slide title,
+so let me fix that.
+
+527
+00:39:49.920 --> 00:39:53.090
+But I now have this issue with
+Check reading order again.
+
+528
+00:39:55.320 --> 00:39:59.120
+So when I create my own
+custom slides like that,
+
+529
+00:40:00.480 --> 00:40:04.480
+when I add information to
+the slide, they're basically
+added in the order -
+
+530
+00:40:06.150 --> 00:40:10.060
+the reading order is based on
+the order by which those objects
+were added to the slide.
+
+531
+00:40:12.620 --> 00:40:19.020
+So I've added that
+Resources text box last.
+
+532
+00:40:19.480 --> 00:40:20.580
+And so because I didn't use
+
+533
+00:40:20.580 --> 00:40:23.330
+a built-in layout, it does make me
+validate the reading order anyway.
+
+534
+00:40:25.010 --> 00:40:28.100
+As you can see, it's
+made the title the last
+object because that was
+
+535
+00:40:28.100 --> 00:40:34.140
+the last added object when
+it converted from a text
+box to a title field.
+
+536
+00:40:36.990 --> 00:40:39.660
+I do have to do some extra
+steps if I use a custom layout.
+
+537
+00:40:40.180 --> 00:40:44.720
+If I use a predefined
+layout such
+
+538
+00:40:44.720 --> 00:40:51.380
+as this two-content layout,
+delete that slide and re-add it.
+
+539
+00:40:55.440 --> 00:41:02.360
+Let me do a new slide
+Layout, Two Content, so I
+can add resources, and then
+
+540
+00:41:02.360 --> 00:41:05.110
+I can add that same image
+here and the text here.
+
+541
+00:41:06.740 --> 00:41:11.440
+The built-in slide layouts
+just automatically define
+my reading order for me.
+
+542
+00:41:12.700 --> 00:41:14.140
+So I don't have to
+do anything extra
+
+543
+00:41:14.140 --> 00:41:17.500
+there, unless I drastically
+want things to be read in a
+different order.
+
+544
+00:41:20.870 --> 00:41:22.230
+This is a couple
+recommendations
+
+545
+00:41:22.230 --> 00:41:25.490
+on the accessibility checker
+and reading order in PowerPoint.
+
+546
+00:41:26.510 --> 00:41:30.040
+Similar idea, but a
+couple just nuances there
+unique to PowerPoint.
+
+547
+00:41:32.080 --> 00:41:36.410
+Switching back to my agenda
+slide, I want to quickly
+cover a couple other things.
+
+548
+00:41:37.880 --> 00:41:42.570
+In Outlook, I can select
+Prefer Accessible Content, and
+
+549
+00:41:42.570 --> 00:41:45.800
+so I'll show you what
+that looks like here.
+
+550
+00:41:47.180 --> 00:41:51.640
+Let me draft an email to
+my colleague Larry, who I
+know has configured this.
+
+551
+00:42:11.450 --> 00:42:12.960
+He configured it
+yesterday, at least.
+
+552
+00:42:18.363 --> 00:42:19.759
+Let me try that again.
+
+553
+00:42:31.410 --> 00:42:34.400
+Okay, well I'm getting an
+error message that says can't
+show MailTips right now.
+
+554
+00:42:34.710 --> 00:42:36.224
+So there goes that demo.
+
+555
+00:42:36.225 --> 00:42:39.320
+But what mail I will what that
+what MailTips is referring to
+
+556
+00:42:39.630 --> 00:42:43.140
+are these messages right
+above your send and from
+
+557
+00:42:43.140 --> 00:42:46.650
+and to controls in
+Outlook, and so
+
+558
+00:42:46.650 --> 00:42:52.010
+you may have noticed things like
+someone being out of the office.
+
+559
+00:42:52.010 --> 00:42:53.340
+That's usually
+considered a MailTip.
+
+560
+00:42:56.020 --> 00:42:59.340
+If someone's outside of your
+organization, there's another
+MailTip that will show there.
+
+561
+00:43:00.350 --> 00:43:02.940
+If I've added some
+inaccessible content
+
+562
+00:43:03.840 --> 00:43:08.310
+and Larry has said he
+prefers accessible
+content, this status bar -
+
+563
+00:43:08.620 --> 00:43:15.550
+the MailTip will show up
+one of recipients prefers
+accessible content and gives
+
+564
+00:43:15.550 --> 00:43:18.150
+a call to action
+on how to fix that.
+
+565
+00:43:19.460 --> 00:43:22.070
+That's a good way to make
+sure you're receiving
+accessible content.
+
+566
+00:43:22.720 --> 00:43:27.750
+To set that up, you do need
+to go to Outlook on the web,
+and so I have that open here.
+
+567
+00:43:29.460 --> 00:43:36.530
+I'm going into Settings, View all
+Settings, General, Accessibility,
+
+568
+00:43:37.110 --> 00:43:40.820
+and then check Ask senders to
+send content that's accessible.
+
+569
+00:43:42.810 --> 00:43:44.790
+Again,
+now if someone is sending to
+
+570
+00:43:44.790 --> 00:43:48.330
+me something inaccessible,
+they would be prompted to
+make it accessible.
+
+571
+00:43:49.970 --> 00:43:57.230
+It doesn't identify the
+specific users, that's an
+intended behavior, again, due
+
+572
+00:43:57.230 --> 00:43:59.020
+to privacy you
+don't want to say
+
+573
+00:44:01.860 --> 00:44:04.980
+a specific user prefers
+accessible content because
+that can imply that
+
+574
+00:44:04.980 --> 00:44:06.649
+they maybe have a disability.
+
+575
+00:44:06.650 --> 00:44:11.270
+But it would show up if
+there's multiple recipients,
+it may be clear.
+
+576
+00:44:12.580 --> 00:44:14.330
+It's still useful to
+know that info I guess.
+
+577
+00:44:18.740 --> 00:44:26.170
+Just to show a couple
+resources real quick, there
+are several help articles
+
+578
+00:44:26.170 --> 00:44:30.010
+on the excessively checker such
+as how to use it, and then there
+
+579
+00:44:30.010 --> 00:44:34.060
+are some specific articles for
+each application, even broken down
+
+580
+00:44:34.060 --> 00:44:35.250
+by platform, so there may
+
+581
+00:44:35.250 --> 00:44:38.050
+be some slight differences in how
+the accessibility checker works
+
+582
+00:44:38.660 --> 00:44:40.590
+in Word online versus
+Word on the desktop.
+
+583
+00:44:41.110 --> 00:44:42.980
+And there's dedicated
+articles for that.
+
+584
+00:44:43.820 --> 00:44:44.620
+And all of that's
+
+585
+00:44:44.620 --> 00:44:51.580
+on our Office Accessibility
+Center, and so that's
+aka.ms/officeaccessibility.
+
+586
+00:44:51.580 --> 00:44:52.680
+I'll show you those
+links in a minute.
+
+587
+00:44:53.610 --> 00:44:58.130
+Kind of have this section
+on make your content
+accessible to everyone.
+
+588
+00:44:58.790 --> 00:45:02.380
+There's some videos and
+stuff about each platform.
+
+589
+00:45:02.820 --> 00:45:08.590
+And then they have
+articles specific to each
+application and platform.
+
+590
+00:45:08.590 --> 00:45:10.040
+So Sway on the Web may have
+
+591
+00:45:10.040 --> 00:45:12.700
+some different behaviors with the
+accessibility checker than Word.
+
+592
+00:45:13.570 --> 00:45:15.230
+So definitely recommend
+checking that out.
+
+593
+00:45:18.060 --> 00:45:22.215
+Similar to the accessibility
+checker is a tool called
+Accessibility Insights,
+
+594
+00:45:22.216 --> 00:45:23.740
+and it's a tool that's able
+
+595
+00:45:23.740 --> 00:45:28.540
+to look at web content and
+return some accessibility
+issues that are found -
+
+596
+00:45:28.930 --> 00:45:33.820
+similar idea, but it's
+looking at some web
+accessibility standards and
+
+597
+00:45:33.820 --> 00:45:37.150
+is comparing the experience
+against those standards.
+
+598
+00:45:37.640 --> 00:45:40.500
+They have a web extension,
+so I'll show that in a second.
+
+599
+00:45:40.500 --> 00:45:45.990
+They also have an app for checking
+Android, apps for accessibility
+
+600
+00:45:45.990 --> 00:45:48.170
+and then checking Windows
+apps for accessibility.
+
+601
+00:45:49.310 --> 00:45:52.760
+Let me show you what that
+Accessibility Insights looks like.
+
+602
+00:45:54.330 --> 00:45:57.870
+So I've opened a page from the
+W3C World Wide Web Consortium.
+
+603
+00:45:59.120 --> 00:46:03.830
+They kind of set a lot
+of the standards and
+all that for the Web.
+
+604
+00:46:05.020 --> 00:46:07.230
+Let's run a quick check here
+and see if any issues come up.
+
+605
+00:46:07.740 --> 00:46:13.790
+So I now have my Accessibility
+Insights icon in my extensions
+area of my web browser.
+
+606
+00:46:14.580 --> 00:46:16.970
+It looks like a little shield
+with a magnifying glass icon.
+
+607
+00:46:20.070 --> 00:46:24.640
+So let me select FastPass, that's
+going to do a quick automated
+check, and that's looking
+
+608
+00:46:24.640 --> 00:46:29.440
+at the page,, and it's going to
+tell me where there are issues.
+
+609
+00:46:29.440 --> 00:46:31.070
+So in this case,
+there is one issue.
+
+610
+00:46:33.080 --> 00:46:36.180
+There's a link on their
+page that doesn't have
+
+611
+00:46:36.180 --> 00:46:38.490
+a name, and it shows you
+that object on the page.
+
+612
+00:46:39.960 --> 00:46:42.480
+This is useful if you're
+creating a lot of web content
+
+613
+00:46:42.480 --> 00:46:44.470
+or you're a web developer,
+things like that.
+
+614
+00:46:45.130 --> 00:46:47.370
+Just to really keep
+in your back pocket.
+
+615
+00:46:49.450 --> 00:46:54.010
+Similarly to the accessibility
+checker, it doesn't catch all
+possible issues, but it is
+
+616
+00:46:54.010 --> 00:46:58.630
+a really good starting point
+to get a good idea where
+your accessibility is at.
+
+617
+00:46:59.940 --> 00:47:02.580
+So this is one that we
+would recommend that
+they fix on their site.
+
+618
+00:47:03.720 --> 00:47:05.190
+So that's Accessibility
+Insights.
+
+619
+00:47:06.890 --> 00:47:10.660
+With that, I want to wrap
+up and just share a couple
+of those links again.
+
+620
+00:47:11.740 --> 00:47:19.700
+So first our accessibility
+team has a Twitter MSFTenable
+
+621
+00:47:19.700 --> 00:47:21.040
+if you want to follow
+us and learn more.
+
+622
+00:47:23.030 --> 00:47:24.910
+There's one of the areas
+
+623
+00:47:24.910 --> 00:47:29.570
+I mentioned, The Office
+Accessibility Center
+was aka.ms/OfficeAccessibility,
+
+624
+00:47:30.670 --> 00:47:33.900
+and then we also have
+Accessibility fundamentals which
+
+625
+00:47:33.900 --> 00:47:37.780
+is a program on
+docs.microsoft.com where you
+
+626
+00:47:37.780 --> 00:47:39.950
+can learn some of the
+basics of accessibility.
+
+627
+00:47:41.550 --> 00:47:44.380
+There's a few different modules,
+and you can get a badge that
+
+628
+00:47:44.380 --> 00:47:48.100
+you are able to display on your
+social media, such as LinkedIn.
+
+629
+00:47:48.100 --> 00:47:54.410
+We strongly recommend doing
+that, and the link is
+aka.ms/AccessibilityFundamentals.
+
+630
+00:47:55.230 --> 00:47:57.200
+And I'm part of our part
+
+631
+00:47:57.200 --> 00:48:00.520
+of our Enterprise Disability
+Answer Desk which supports
+enterprise customers
+
+632
+00:48:00.520 --> 00:48:01.860
+that have accessibility
+questions.
+
+633
+00:48:02.450 --> 00:48:07.600
+Governments and banks and other
+businesses and things like that,
+
+634
+00:48:07.600 --> 00:48:09.000
+so we work a lot
+with customers.
+
+635
+00:48:09.400 --> 00:48:13.180
+So if you want to learn
+more about that and if you
+are in a role that interfaces
+
+636
+00:48:13.180 --> 00:48:16.340
+a lot with customers, you may
+want to reach out and just kind
+
+637
+00:48:16.340 --> 00:48:18.050
+of get to know us and
+see how we can help.
+
+638
+00:48:18.460 --> 00:48:21.440
+You can learn more
+at aka.ms/eDAD.
+
+639
+00:48:21.440 --> 00:48:25.170
+Enterprise Disability
+Answer Desk.
+
+640
+00:48:27.480 --> 00:48:29.950
+With that, I think we
+have some time for some
+questions from you all.
+
+641
+00:48:30.750 --> 00:48:31.630
+&gt;&gt; Hey, Sean.
+
+642
+00:48:32.233 --> 00:48:33.233
+&gt;&gt; Yeah.
+
+643
+00:48:33.234 --> 00:48:36.160
+&gt;&gt; We have a few questions,
+so I'm going to get started.
+
+644
+00:48:36.160 --> 00:48:37.660
+This question was from David.
+
+645
+00:48:38.280 --> 00:48:42.170
+I'm surprised accessibility
+checker doesn't flag learn more
+
+646
+00:48:42.170 --> 00:48:43.850
+and other ambiguous hyperlinks
+
+647
+00:48:44.730 --> 00:48:48.880
+as such, it's such a
+big case in documents.
+
+648
+00:48:48.880 --> 00:48:52.880
+&gt;&gt; Yeah, that's a valid point.
+
+649
+00:48:53.690 --> 00:48:55.710
+So awhile back there
+used to be a rule
+
+650
+00:48:55.710 --> 00:49:00.170
+in the accessibility
+checker that would flag
+link purpose, and it was
+
+651
+00:49:00.540 --> 00:49:06.830
+if links were ambiguous
+or not clear or if
+
+652
+00:49:06.830 --> 00:49:09.980
+the URL was really long and
+was not discernible that way.
+
+653
+00:49:12.070 --> 00:49:19.030
+That rule was taken out
+because putting URLs directly
+
+654
+00:49:19.030 --> 00:49:23.050
+in documents and PowerPoints
+isn't inherently problematic like
+
+655
+00:49:23.050 --> 00:49:26.610
+these aka links or if I
+type Microsoft.com, that's
+
+656
+00:49:26.610 --> 00:49:30.120
+a pretty clear
+link, but if I do
+
+657
+00:49:30.120 --> 00:49:33.230
+a very long string or URL,
+then it gets pretty cumbersome.
+
+658
+00:49:34.430 --> 00:49:39.550
+There's not a way today
+to check for link names
+like click here or learn
+
+659
+00:49:39.550 --> 00:49:44.670
+more, learn more, but I
+think that's something the
+team has been exploring.
+
+660
+00:49:44.670 --> 00:49:46.330
+But it's certainly feedback
+that we'll pass on.
+
+661
+00:49:48.409 --> 00:49:50.609
+&gt;&gt; All right. Thanks.
+There's one more question.
+
+662
+00:49:52.060 --> 00:49:53.352
+It's from Vanessa.
+
+663
+00:49:53.353 --> 00:49:58.080
+It's if I export a PPT to
+PDF, will the accessibility
+content export what it?
+
+664
+00:49:59.579 --> 00:50:01.929
+&gt;&gt; Yeah,
+and I can show that real quick.
+
+665
+00:50:01.930 --> 00:50:02.950
+That's a great question.
+
+666
+00:50:04.600 --> 00:50:06.720
+Let me just clean up
+my slides a little bit.
+
+667
+00:50:06.720 --> 00:50:08.920
+So I've gone in and as we did
+
+668
+00:50:08.920 --> 00:50:12.850
+on this walk-thru and improved
+all the accessibility issues here.
+
+669
+00:50:15.220 --> 00:50:19.920
+Now, yeah, it is pretty
+easy to export even Word
+documents or this to PDF.
+
+670
+00:50:19.920 --> 00:50:20.920
+So I'll go to File.
+
+671
+00:50:22.140 --> 00:50:25.350
+Now, I know a lot of folks
+use Print and save as PDF.
+
+672
+00:50:25.350 --> 00:50:28.860
+We actually don't want
+to do that route because
+
+673
+00:50:28.860 --> 00:50:33.060
+that, today, doesn't keep a
+lot of that accessibility
+markup that we've added.
+
+674
+00:50:34.180 --> 00:50:38.530
+So I would either do Save
+As or Export and Create PDF.
+
+675
+00:50:38.530 --> 00:50:45.420
+&gt;&gt; Hang on one second.
+
+676
+00:50:45.420 --> 00:50:46.960
+I realize I didn't
+share the screen.
+
+677
+00:50:49.370 --> 00:50:50.334
+Sorry.
+
+678
+00:50:51.789 --> 00:50:53.199
+&gt;&gt; That's okay.
+
+679
+00:50:53.200 --> 00:51:02.020
+So I've gone into
+PowerPoint again, I've
+gone to File, Export, PDF,
+
+680
+00:51:02.020 --> 00:51:05.440
+and then Create PDF,
+and then I can title it.
+
+681
+00:51:07.310 --> 00:51:09.480
+I want to call out
+the options here.
+
+682
+00:51:10.470 --> 00:51:13.550
+There's this checkbox for
+document for including
+
+683
+00:51:13.550 --> 00:51:16.130
+the document structure tags
+for accessibility purposes.
+
+684
+00:51:16.660 --> 00:51:17.840
+That's checked by default.
+
+685
+00:51:18.250 --> 00:51:20.280
+But just be aware that's
+there, and it's
+
+686
+00:51:20.280 --> 00:51:21.840
+a good thing to
+validate if you want
+
+687
+00:51:22.290 --> 00:51:25.770
+to output an accessibility
+PDF, make sure that's checked.
+
+688
+00:51:26.780 --> 00:51:28.310
+And then it is really easy.
+
+689
+00:51:28.310 --> 00:51:29.620
+So you would just
+then hit Publish.
+
+690
+00:51:32.350 --> 00:51:37.190
+So it's pretty easy
+and straightforward to
+make accessible PDFs.
+
+691
+00:51:37.190 --> 00:51:38.770
+From Word,
+it's the same process.
+
+692
+00:51:38.770 --> 00:51:42.420
+Just make sure you make
+it accessible through the
+accessibility checker
+
+693
+00:51:42.940 --> 00:51:44.730
+and then export it
+
+694
+00:51:44.730 --> 00:51:46.850
+as a PDF as opposed to
+printing it as a PDF.
+
+695
+00:51:48.220 --> 00:51:49.200
+Great question.
+
+696
+00:51:49.200 --> 00:51:51.000
+&gt;&gt; There's quite
+a few questions.
+
+697
+00:51:51.000 --> 00:51:52.840
+We'll try to get as
+much as we could.
+
+698
+00:51:53.230 --> 00:51:54.300
+You ready for the next one?
+
+699
+00:51:54.300 --> 00:51:55.529
+&gt;&gt; Sure.
+
+700
+00:51:55.530 --> 00:52:01.200
+&gt;&gt; This is from Jane,
+and the question is: Do
+you have any guidelines
+
+701
+00:52:01.690 --> 00:52:05.190
+on when to add alt
+description for
+
+702
+00:52:05.190 --> 00:52:09.520
+an image changing to descriptive
+decorator and for decorative.
+
+703
+00:52:09.980 --> 00:52:12.410
+Would you then exclude
+these from the slide order?
+
+704
+00:52:14.834 --> 00:52:17.366
+&gt;&gt; That's a good question
+on PowerPoint too.
+
+705
+00:52:17.990 --> 00:52:24.590
+With imagens, my general rule
+is they're conveying content
+and they are meaningful
+
+706
+00:52:24.590 --> 00:52:28.240
+and someone would gain information
+from that image, you want
+
+707
+00:52:28.240 --> 00:52:30.460
+to add good alt
+text to describe it.
+
+708
+00:52:31.660 --> 00:52:35.510
+If the image is not adding
+a lot of content, such as
+
+709
+00:52:35.510 --> 00:52:39.540
+on this last slide, my
+image of the woman with the
+question marks above her head.
+
+710
+00:52:41.380 --> 00:52:44.560
+That one has alt text, but
+that would actually be okay
+to mark as decorative.
+
+711
+00:52:47.590 --> 00:52:59.310
+And then in my reading order
+pane, let me bring that back up.
+
+712
+00:52:59.660 --> 00:53:01.210
+When I mark something
+as decorative,
+
+713
+00:53:01.650 --> 00:53:04.540
+it automatically gets deselected
+from the reading order.
+
+714
+00:53:06.180 --> 00:53:09.290
+From the reading order pane,
+I can also mark stuff as
+decorative really easily
+
+715
+00:53:09.290 --> 00:53:10.560
+if I just check or uncheck it.
+
+716
+00:53:11.210 --> 00:53:14.530
+So now it's not decorative
+again, and you'd want
+
+717
+00:53:14.530 --> 00:53:16.110
+to make sure it has
+alt text in that case.
+
+718
+00:53:16.670 --> 00:53:18.080
+And then if I uncheck
+it, it marks it
+
+719
+00:53:18.080 --> 00:53:21.710
+as decorative and then hides
+it from the reading order.
+
+720
+00:53:22.060 --> 00:53:23.060
+Good question.
+
+721
+00:53:23.130 --> 00:53:24.330
+&gt;&gt; Okay, cool.
+
+722
+00:53:24.828 --> 00:53:26.710
+Do you have time
+for a few more?
+
+723
+00:53:26.919 --> 00:53:27.919
+&gt;&gt; Sure.
+
+724
+00:53:27.920 --> 00:53:29.930
+&gt;&gt; Okay,
+so this is from David again.
+
+725
+00:53:29.930 --> 00:53:33.470
+In PowerPoint polish EBC decks
+and exec decks [phonetic]
+
+726
+00:53:33.470 --> 00:53:38.740
+often have complex visuals
+with a lot of little pieces
+like the lines, dots, etc.
+
+727
+00:53:39.370 --> 00:53:42.530
+What is the guidance for alt
+text, decorative, etc.?
+
+728
+00:53:42.870 --> 00:53:48.020
+Is there a way to group
+everything together within a
+slide in a hidden way that can
+
+729
+00:53:48.020 --> 00:53:53.570
+be grouped together with a
+single description or other
+best practices in these cases?
+
+730
+00:53:54.380 --> 00:53:57.730
+&gt;&gt; Sure, that's a really
+good question and something
+we do actually see a lot.
+
+731
+00:53:58.790 --> 00:54:00.310
+There's lots of scenarios
+where someone might
+
+732
+00:54:00.310 --> 00:54:03.220
+have really complicated visuals
+that have lots of objects.
+
+733
+00:54:04.690 --> 00:54:09.160
+Whenever possible, we
+recommend simplifying
+that as much as you can.
+
+734
+00:54:09.810 --> 00:54:12.660
+If you don't need quite so
+many of the objects, you
+
+735
+00:54:12.660 --> 00:54:16.720
+can hide them, mark
+them as decorative, but
+you can group things.
+
+736
+00:54:16.720 --> 00:54:18.156
+That helps a lot.
+
+737
+00:54:18.770 --> 00:54:21.880
+So these slides I have
+today aren't very complex
+
+738
+00:54:21.880 --> 00:54:24.460
+so I don't have a
+great example here, but
+
+739
+00:54:24.460 --> 00:54:27.750
+if I had a really complex slide,
+I could group the objects together
+
+740
+00:54:28.230 --> 00:54:30.530
+and then in the reading
+order pane, they would
+show in that group.
+
+741
+00:54:32.500 --> 00:54:36.290
+If it's a really complex visual
+that just has lots of pieces but
+
+742
+00:54:36.290 --> 00:54:42.550
+it's indicating one thing,
+one approach that I've seen
+a lot is if you select each
+
+743
+00:54:42.550 --> 00:54:47.620
+of those objects that are
+conveying one thing, copy
+cutting them from the slide
+
+744
+00:54:47.620 --> 00:54:52.630
+and then pasting them as
+an image and then giving
+that image alt text -
+
+745
+00:54:53.130 --> 00:54:57.680
+because if the goal is for
+your visual to have just kind
+of one key take away from it,
+
+746
+00:54:58.640 --> 00:55:01.580
+as much as you can do
+that, kind
+
+747
+00:55:01.580 --> 00:55:06.180
+of distill it down into one
+image and give alt text to that.
+
+748
+00:55:06.880 --> 00:55:10.640
+I don't have a great example.
+
+749
+00:55:10.640 --> 00:55:16.590
+Let me see if I can mock
+one up just really quick.
+
+750
+00:55:16.590 --> 00:55:18.724
+I'll just add a
+couple symbols.
+
+751
+00:55:29.060 --> 00:55:31.730
+&gt;&gt; I think there was
+a follow-up to that.
+
+752
+00:55:31.730 --> 00:55:32.920
+So let me keep reading.
+
+753
+00:55:32.920 --> 00:55:37.960
+The desired outcome is
+that each line and dot
+would be considered in and
+
+754
+00:55:37.960 --> 00:55:39.710
+of itself decorative,
+but the sum
+
+755
+00:55:39.710 --> 00:55:42.730
+of all the little components
+would be a single visual ID.
+
+756
+00:55:44.190 --> 00:55:46.610
+What is [indiscernible]
+to give a description for?
+
+757
+00:55:47.480 --> 00:55:48.890
+Anyway to achieve
+this outcome?
+
+758
+00:55:48.890 --> 00:55:52.000
+&gt;&gt; Yeah, so in what
+I'm creating right now.
+
+759
+00:55:52.000 --> 00:55:55.500
+Let's say that I've just
+added a simple chart,
+
+760
+00:55:55.500 --> 00:55:58.680
+but maybe these triangles
+are indicating some sort
+
+761
+00:55:58.680 --> 00:56:02.490
+of up and down diagram,
+trend or something like that.
+
+762
+00:56:03.200 --> 00:56:05.180
+But each of them is
+a discrete object.
+
+763
+00:56:05.700 --> 00:56:10.220
+So what I can do is I'll cut them
+from the slide and then paste them
+
+764
+00:56:10.220 --> 00:56:13.100
+as image and so
+now they're still
+
+765
+00:56:13.100 --> 00:56:16.630
+the same visual but it's just
+one object to give alt text.
+
+766
+00:56:16.630 --> 00:56:18.370
+&gt;&gt; Yeah,
+but the only challenge is that -
+
+767
+00:56:18.370 --> 00:56:21.480
+and, again, this coming from David
+- the only challenge is that if
+
+768
+00:56:21.790 --> 00:56:26.770
+we paste it as image, you
+lose ability to animate
+the complex diagram.
+
+769
+00:56:26.770 --> 00:56:31.280
+&gt;&gt; Yeah, I think to be
+transparent, there's not
+
+770
+00:56:31.280 --> 00:56:34.190
+a perfect answer that I can
+give today, unfortunately.
+
+771
+00:56:36.440 --> 00:56:41.550
+Whenever possible, make those
+things as flat as you can, and so
+
+772
+00:56:41.550 --> 00:56:46.270
+if there are things that
+animate in together, maybe
+those could be a group.
+
+773
+00:56:47.540 --> 00:56:51.020
+But just wherever possible,
+think about how you can reduce
+
+774
+00:56:51.020 --> 00:56:55.800
+the number of discrete
+objects, either by grouping
+or pasting as image.
+
+775
+00:56:55.801 --> 00:56:58.722
+I know that's not a great
+answer, but --
+
+776
+00:57:00.388 --> 00:57:02.920
+&gt;&gt; Okay, thanks Sean.
+
+777
+00:57:02.920 --> 00:57:04.470
+A lot of great questions.
+
+778
+00:57:04.470 --> 00:57:07.710
+We are right about on time
+so I want to wrap this.
+

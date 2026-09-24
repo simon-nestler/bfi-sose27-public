@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="dm-title">
+  <title id="dm-title">Vorlage der Dreiklang-Matrix mit drei Spalten: nur die Hand fand es, beide fanden es, nur das Werkzeug fand es. Darunter je Spalte leere Zeilen zum Eintragen der Befunde aus Meilenstein 1 und aus den Werkzeugen.</title>
+  <style>
+    text { font-family: Inter, 'Neue Haas Unica', sans-serif; fill: #031121; }
+    .head { font-size: 32px; font-weight: 700; }
+    .sub { font-size: 24px; font-weight: 400; }
+    .hint { font-size: 24px; font-weight: 600; }
+    .col-hand { fill: #E5EFFB; }
+    .col-both { fill: #F3F3F3; }
+    .col-tool { fill: #F5F3EE; }
+    .line { stroke: #031121; stroke-width: 2; stroke-opacity: 0.35; }
+    .accent { fill: #FCD430; }
+  </style>
+
+  <rect class="col-hand" x="0" y="0" width="380" height="470" rx="6"/>
+  <rect class="col-both" x="410" y="0" width="380" height="470" rx="6"/>
+  <rect class="col-tool" x="820" y="0" width="380" height="470" rx="6"/>
+  <rect class="accent" x="0" y="0" width="380" height="10"/>
+  <rect class="accent" x="410" y="0" width="380" height="10"/>
+  <rect class="accent" x="820" y="0" width="380" height="10"/>
+
+  <text class="head" x="28" y="62">Nur die Hand</text>
+  <text class="sub" x="28" y="100">Befund aus M1, kein Werkzeug meldet ihn</text>
+  <text class="head" x="438" y="62">Beide</text>
+  <text class="sub" x="438" y="100">Hand und Werkzeug bestätigen sich</text>
+  <text class="head" x="848" y="62">Nur das Werkzeug</text>
+  <text class="sub" x="848" y="100">Gemeldet, in M1 nicht gesehen</text>
+
+  <g class="line">
+    <line x1="28" y1="170" x2="352" y2="170"/><line x1="28" y1="230" x2="352" y2="230"/><line x1="28" y1="290" x2="352" y2="290"/><line x1="28" y1="350" x2="352" y2="350"/><line x1="28" y1="410" x2="352" y2="410"/>
+    <line x1="438" y1="170" x2="762" y2="170"/><line x1="438" y1="230" x2="762" y2="230"/><line x1="438" y1="290" x2="762" y2="290"/><line x1="438" y1="350" x2="762" y2="350"/><line x1="438" y1="410" x2="762" y2="410"/>
+    <line x1="848" y1="170" x2="1172" y2="170"/><line x1="848" y1="230" x2="1172" y2="230"/><line x1="848" y1="290" x2="1172" y2="290"/><line x1="848" y1="350" x2="1172" y2="350"/><line x1="848" y1="410" x2="1172" y2="410"/>
+  </g>
+
+  <text class="hint" x="0" y="520">Je Eintrag: Befund · Fundstelle · welches Werkzeug (axe, WAVE, ANDI) – die Bauchgefühl-Barriere markieren.</text>
+</svg>

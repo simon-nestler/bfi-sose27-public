@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Das Review-Raster: zwei Stärken, zwei Lücken, eine unbelegte Behauptung – jede der fünf Aussagen trägt eine Fundstelle im begutachteten Dokument; unter dem Raster der Zusatz: keine gefunden verlangt drei geprüfte Kandidaten als Nachweis">
+  <style>
+    text { font-family: Inter, "Neue Haas Unica", Arial, sans-serif; fill: #031121; }
+    .h { font-size: 30px; font-weight: 700; }
+    .t { font-size: 22px; }
+    .s { font-size: 20px; fill: #5A6472; }
+    .w { fill: #FFFFFF; }
+  </style>
+  <!-- Reihenfolge: Stärken zuerst -->
+  <g>
+    <rect x="40" y="60" width="330" height="150" rx="8" fill="#031121"/>
+    <text x="60" y="110" class="h w">2 Stärken</text>
+    <text x="60" y="150" class="t w">zuerst – und echt</text>
+    <text x="60" y="184" class="s" style="fill:#D9E4EE">Konzession vor Kritik ist Methode</text>
+  </g>
+  <g>
+    <rect x="435" y="60" width="330" height="150" rx="8" fill="#7FB2E5"/>
+    <text x="455" y="110" class="h">2 Lücken</text>
+    <text x="455" y="150" class="t">mit Konsequenz</text>
+    <text x="455" y="184" class="s">nicht „könnte ausführlicher sein“</text>
+  </g>
+  <g>
+    <rect x="830" y="60" width="330" height="150" rx="8" fill="#D9E4EE"/>
+    <text x="850" y="110" class="h">1 unbelegte</text>
+    <text x="850" y="150" class="h">Behauptung</text>
+    <text x="850" y="184" class="s">Pflicht, kein Kann</text>
+  </g>
+  <!-- Pfeile der Lesereihenfolge -->
+  <g fill="#5A6472">
+    <polygon points="372,135 430,135 430,125 432,135 430,145"/>
+    <rect x="372" y="133" width="58" height="4"/>
+    <rect x="767" y="133" width="58" height="4"/>
+    <polygon points="822,125 834,135 822,145"/>
+  </g>
+  <!-- Fundstellen-Band -->
+  <rect x="40" y="250" width="1120" height="88" rx="8" fill="#FFFFFF" stroke="#031121" stroke-width="2"/>
+  <rect x="40" y="250" width="14" height="88" rx="4" fill="#FCD430"/>
+  <text x="80" y="288" class="h">Jede Aussage mit Fundstelle</text>
+  <text x="80" y="320" class="t">Seite · Abschnitt · Befund-Nummer im begutachteten Dokument – ohne Fundstelle ist es ein Eindruck, kein Befund</text>
+  <!-- Nachweis-Regel -->
+  <text x="40" y="400" class="h">„Keine gefunden“ gilt nur mit Nachweis</text>
+  <text x="40" y="440" class="t">Drei geprüfte Kandidaten benennen – wer nichts findet, zeigt, dass er gesucht hat.</text>
+  <text x="40" y="490" class="s">Dieselbe Logik wie der Zufallsanteil der Stichprobe (Woche 7) und das Korrektiv der Selbstbewertung (Woche 11): Prüfung braucht ein Außen.</text>
+</svg>
